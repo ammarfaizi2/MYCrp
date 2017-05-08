@@ -16,7 +16,7 @@ class Graph
 	}
 	public function do_react($post_id,$type="LIKE")
 	{
-		$st = new CMCurl(self::G.$post_id'/reactions?type='.urlencode($type).'&access_token='.$this->_token);
+		$st = new CMCurl(self::G.$post_id.'/reactions?type='.urlencode($type).'&access_token='.$this->_token);
 		return $st->execute();
 	}
 }

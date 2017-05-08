@@ -30,11 +30,30 @@ class ActionHandler
 
 	}
 
-	
+	private function gen_react()
+	{
+		$a = array("LOVE","WOW","LIKE");
+		return $a[rand(0,2)];
+	}
+
+
 	public function run()
 	{
 		$this->get_target();
 		$this->get_data();
+		foreach ($target as $user) {
+			$current = $this->graph->get_newpost($user);
+			if (!in_array($current, $this->data[$user])) {
+				$ctn = count($this->data[$user]);
+				if ($ctn>5) {
+					$this->data[$user][5] = $current;
+				} else {
+					$this->data[$user][] = $current;
+				}
+				$this->action[] = $this->graph->do_react($current,$this->gen_react());
+			}
+		}
+		print_r($this->action);
 	}
 
 }

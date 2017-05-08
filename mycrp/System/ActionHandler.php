@@ -6,7 +6,12 @@ use System\Graph;
 */
 class ActionHandler
 {
-	
+	private $user;
+	private $path;
+	private $data;
+	private $graph;
+	private $target;
+	private $action;
 	public function __construct($user,$token)
 	{
 		$this->user  = $user;

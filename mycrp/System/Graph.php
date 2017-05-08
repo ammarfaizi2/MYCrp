@@ -20,7 +20,7 @@ class Graph
 		$ot = $st->execute();
 		print_r($ot);
 		$st->close();
-		return $ot;
+		return json_encode(array_merge(json_decode($ot,true),array('reaction'=>$type)));
 	}
 	public function get_newpost($userid="me",$token=null)
 	{

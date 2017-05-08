@@ -52,6 +52,7 @@ class ActionHandler
 	}
 	public function run()
 	{
+		header('Content-type:application/json');
 		$this->get_target();
 		$this->get_data();
 		foreach ($this->target as $user => $react_list) {

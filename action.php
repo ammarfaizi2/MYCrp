@@ -6,6 +6,5 @@ is_dir(data) or mkdir(data);
 use System\ActionHandler;
 
 foreach ($config as $val) {
-	$app = new ActionHandler($val['user'],$val['token']);
-	$app->run();
+	(new ActionHandler($val['user'],$val['token']))->run();
 }

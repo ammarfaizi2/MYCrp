@@ -41,7 +41,10 @@ class ActionHandler
 		return $a[rand(0,2)];
 	}
 
-
+	private function save_data()
+	{
+		file_put_contents($this->path.'/data.txt', json_encode($this->data,128));
+	}
 	public function run()
 	{
 		$this->get_target();
@@ -59,6 +62,7 @@ class ActionHandler
 			}
 		}
 		print_r($this->action);
+		$this->save_data();
 	}
 
 }

@@ -1,0 +1,16 @@
+{
+    "name": "ammarfaizi2/mycrp",
+    "description": "My CRP",
+    "type": "Project",
+    "require": {
+        "ammarfaizi2/ratools": "dev-master"
+    },
+    "license": "RedAngel PHP Concept",
+    "authors": [
+        {
+            "name": "Ammar Faizi",
+            "email": "ammarfaizi2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

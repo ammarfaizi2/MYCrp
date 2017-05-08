@@ -58,11 +58,11 @@ class ActionHandler
 			$current = $this->graph->get_newpost($user);
 			if (!isset($this->data[$user][$current])) {
 				$ctn = isset($this->data[$user]) ? count($this->data[$user]) : 0;
-				$this->action[$user] = $this->graph->do_react($current,$this->gen_react($react_list));
+				$this->action[$user] = array($this->graph->do_react($current,$this->gen_react($react_list)),date("Y-m-d H:i:s"));
 				$this->data[$user][$current] = $this->action[$user];
 			}
 		}
-		print_r($this->action);
+		print json_encode($this->action);
 		$this->save_data();
 	}
 

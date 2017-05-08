@@ -18,7 +18,6 @@ class Graph
 	{
 		$st = new CMCurl(self::G.$post_id.'/reactions?method=post&type='.urlencode($type).'&access_token='.$this->_token);
 		$ot = $st->execute();
-		print_r($ot);
 		$st->close();
 		return json_encode(array_merge(json_decode($ot,true),array('reaction'=>$type)));
 	}

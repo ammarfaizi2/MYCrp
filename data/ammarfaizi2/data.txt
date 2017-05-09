@@ -1,0 +1,20 @@
+{
+    "ammarfaizi2": {
+        "100000590125569_1723711350991852": [
+            "{\"success\":true,\"reaction\":\"LOVE\"}",
+            "2017-05-08 18:34:24"
+        ]
+    },
+    "shiroyuki.shiroyuki.7": {
+        "100015325562227_189628581557993": [
+            "{\"error\":{\"message\":\"(#200) Permissions error\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"DYGfdMnuM\\\/d\"},\"reaction\":\"LOVE\"}",
+            "2017-05-08 18:37:06"
+        ]
+    },
+    "putritachi": {
+        "100010838581730_423885464649403": [
+            "{\"success\":true,\"reaction\":\"WOW\"}",
+            "2017-05-08 18:38:29"
+        ]
+    }
+}

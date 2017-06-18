@@ -6,7 +6,7 @@ $config  = array(
 array(
 		"user"	=> "ammarfaizi2",
 		"email" => "ammarfaizi2",
-		"pass"	=> "454469123iceteafa",
+		"pass"	=> "",
 	)
 );
 

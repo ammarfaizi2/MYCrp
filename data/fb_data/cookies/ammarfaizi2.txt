@@ -10,3 +10,6 @@
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1505560193	xs	26%3AU-_j6Tu9220CTQ%3A2%3A1497784194%3A2128%3A11049
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1505560193	fr	0EKy99f2z7e5zwdB5.AWUexXpNe0bGV6OHgWrIBJSg2Io.BZRl-B.8a.AAA.0.0.BZRl-B.AWUrlhXJ
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1560856193	lu	gA
+www.instagram.com	FALSE	/	FALSE	0	rur	FRC
+www.instagram.com	FALSE	/	TRUE	1529244993	csrftoken	evyhCPPcDriZiCyfVbIIrM8yH03RBGdi
+www.instagram.com	FALSE	/	FALSE	2128514944	mid	WUaJgAAEAAGOiEd3_uEmYfLZpvA2

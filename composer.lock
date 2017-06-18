@@ -4,21 +4,57 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b96fad5ee555093221e0e731260d6417",
-    "content-hash": "1e22baf19a562d709d055045f0a9237b",
+    "hash": "1a3229d99e830db4c5b47e41d5144218",
+    "content-hash": "dd8dfec0d2850b966add4568313e5db5",
     "packages": [
+        {
+            "name": "ammarfaizi2/facebook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ammarfaizi2/Facebook.git",
+                "reference": "6ab8a82659bc6e03a405178e11c63a21c03e056f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ammarfaizi2/Facebook/zipball/6ab8a82659bc6e03a405178e11c63a21c03e056f",
+                "reference": "6ab8a82659bc6e03a405178e11c63a21c03e056f",
+                "shasum": ""
+            },
+            "require": {
+                "ammarfaizi2/ratools": "dev-master"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Facebook": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD"
+            ],
+            "authors": [
+                {
+                    "name": "Ammar Faizi",
+                    "email": "ammarfaizi2@gmail.com"
+                }
+            ],
+            "description": "Facebook Utilities",
+            "time": "2017-06-05 05:41:13"
+        },
         {
             "name": "ammarfaizi2/ratools",
             "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ammarfaizi2/RA_Tools.git",
-                "reference": "6ecf997c659b00f03ced94503f7c27ad4e0e5bdf"
+                "reference": "7c0bf4b5b38628c005c38a018e444770728b5331"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ammarfaizi2/RA_Tools/zipball/6ecf997c659b00f03ced94503f7c27ad4e0e5bdf",
-                "reference": "6ecf997c659b00f03ced94503f7c27ad4e0e5bdf",
+                "url": "https://api.github.com/repos/ammarfaizi2/RA_Tools/zipball/7c0bf4b5b38628c005c38a018e444770728b5331",
+                "reference": "7c0bf4b5b38628c005c38a018e444770728b5331",
                 "shasum": ""
             },
             "require": {
@@ -41,14 +77,14 @@
                 }
             ],
             "description": "RA Tools",
-            "time": "2017-05-05 16:01:59"
+            "time": "2017-05-06 13:06:50"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "ammarfaizi2/ratools": 20
+        "ammarfaizi2/facebook": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

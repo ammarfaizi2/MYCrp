@@ -7,5 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'System' => array($baseDir . '/mycrp'),
+    'Facebook' => array($vendorDir . '/ammarfaizi2/facebook/src'),
     'Curl' => array($vendorDir . '/ammarfaizi2/ratools/src'),
 );

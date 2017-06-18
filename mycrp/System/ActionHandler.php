@@ -1,5 +1,6 @@
 <?php
 namespace System;
+use Facebook\Facebook;
 use System\Graph;
 /**
 * 
@@ -12,12 +13,16 @@ class ActionHandler
 	private $graph;
 	private $target;
 	private $action;
-	public function __construct($user,$token)
+	public function __construct($val)
 	{
-		$this->user  = $user;
-		$this->graph = new Graph($token);
+		$this->fb = new Facebook($val['email'], $val['pass'], $val['user']);
+		$this->user  = $val['user'];
+		$this->graph = new Graph($val['token']);
 		$this->path = data.'/'.$this->user;
 		is_dir($this->path) or mkdir($this->path);
+		if (!$this->fb->check_login()) {
+			$this->fb->login();
+		}
 	}
 
 	private function get_target()
@@ -59,7 +64,8 @@ class ActionHandler
 			$current = $this->graph->get_newpost($user);
 			if (!isset($this->data[$user][$current])) {
 				$ctn = isset($this->data[$user]) ? count($this->data[$user]) : 0;
-				$this->action[$user] = array($this->graph->do_react($current,$this->gen_react($react_list)),date("Y-m-d H:i:s"));
+				$this->action[$user] = date("Y-m-d H:i:s");
+				$this->fb->reaction(substr($current, strpos($current, "_")+1),$this->gen_react($react_list));
 				$this->data[$user][$current] = $this->action[$user];
 			}
 		}

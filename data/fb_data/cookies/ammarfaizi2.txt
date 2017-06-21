@@ -5,11 +5,11 @@
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1560856193	datr	BF9GWYd6yLkZXjG2wSHDvmEU
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1513336193	dats	1
 .facebook.com	TRUE	/	TRUE	1498388905	locale	en_GB
-#HttpOnly_.facebook.com	TRUE	/	TRUE	1560856193	sb	gV9GWbdaUA9bM3nLjXPEHyE1
-#HttpOnly_.facebook.com	TRUE	/	TRUE	1505821142	fr	0EKy99f2z7e5zwdB5.AWWqbv1k1VNDA2dqaio5C-CVI1A.BZRl-B.8a.AAA.0.0.BZSlrW.AWWIAYW4
-#HttpOnly_.facebook.com	TRUE	/	TRUE	1560856193	lu	gA
+#HttpOnly_.facebook.com	TRUE	/	TRUE	1561127767	sb	gV9GWbdaUA9bM3nLjXPEHyE1
+#HttpOnly_.facebook.com	TRUE	/	TRUE	1505831767	fr	0EKy99f2z7e5zwdB5.AWVumPrC85DoO6RoXuDGxNEH9yU.BZRl-B.8a.AAA.0.0.BZSoRW.AWUWvuFC
+#HttpOnly_.facebook.com	TRUE	/	TRUE	1561127767	lu	gA
 www.instagram.com	FALSE	/	FALSE	0	rur	ATN
 www.instagram.com	FALSE	/	TRUE	1529492342	csrftoken	evyhCPPcDriZiCyfVbIIrM8yH03RBGdi
 www.instagram.com	FALSE	/	FALSE	2128514944	mid	WUaJgAAEAAGOiEd3_uEmYfLZpvA2
-#HttpOnly_.facebook.com	TRUE	/	TRUE	0	reg_fb_ref	https%3A%2F%2Fm.facebook.com%2Flogin%2Fdevice-based%2Fpassword%2F%3Fuid%3D100000590125569%26flow%3Dlogin_no_pin%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252F
-#HttpOnly_.facebook.com	TRUE	/	TRUE	0	reg_fb_gate	https%3A%2F%2Fm.facebook.com%2F
+.facebook.com	TRUE	/	TRUE	1505831767	c_user	100000590125569
+#HttpOnly_.facebook.com	TRUE	/	TRUE	1505831767	xs	3%3AlE6cY16Jn8GlwA%3A2%3A1498055766%3A2128%3A11049

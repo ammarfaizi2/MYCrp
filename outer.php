@@ -63,7 +63,7 @@ function clean($src)
 			if (count($b)>1) {
 				$b = explode("\"", $b[1], 2);
 				/*$r["action=\"".$b[0]."\""] = "action=\"?url=".urlencode(html_entity_decode($b[0], ENT_QUOTES, 'UTF-8'));*/
-				$src = str_replace("action=\"".$b[0]."\"", "action=\"?user=".$_GET['user']."&url=".htmlspecialchars(urlencode(urlencode(html_entity_decode($b[0], ENT_QUOTES, 'UTF-8'))))."\"", $src);
+				$src = str_replace("action=\"".$b[0]."\"", "action=\"?url=".htmlspecialchars(urlencode(urlencode(html_entity_decode($b[0], ENT_QUOTES, 'UTF-8'))))."\"", $src);
 			}
 		}
 	}

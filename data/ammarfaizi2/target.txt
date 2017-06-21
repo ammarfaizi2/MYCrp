@@ -9,7 +9,6 @@ lintar007=LIKE
 ariswibowoprofile=LIKE
 febrydiannugraha=LIKE
 milio48=LIKE
-100009310538005=LIKE
 nurfawaiq=LIKE
 wtv.tik=LIKE
 nafisa.rahma.140=LIKE

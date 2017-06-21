@@ -61,7 +61,9 @@ class ActionHandler
 		$this->get_target();
 		$this->get_data();
 		foreach ($this->target as $user => $react_list) {
-			$current = $this->graph->get_newpost($user);
+			print $user."   ";
+			print $current = $this->graph->get_newpost($user);
+			print "\n\n";
 			if (!isset($this->data[$user][$current])) {
 				$ctn = isset($this->data[$user]) ? count($this->data[$user]) : 0;
 				$this->action[$user] = date("Y-m-d H:i:s");

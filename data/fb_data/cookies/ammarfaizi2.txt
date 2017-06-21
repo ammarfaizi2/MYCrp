@@ -8,8 +8,8 @@
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1561127767	sb	gV9GWbdaUA9bM3nLjXPEHyE1
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1505831767	fr	0EKy99f2z7e5zwdB5.AWVumPrC85DoO6RoXuDGxNEH9yU.BZRl-B.8a.AAA.0.0.BZSoRW.AWUWvuFC
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1561127767	lu	gA
-www.instagram.com	FALSE	/	FALSE	0	rur	ATN
-www.instagram.com	FALSE	/	TRUE	1529492342	csrftoken	evyhCPPcDriZiCyfVbIIrM8yH03RBGdi
+www.instagram.com	FALSE	/	FALSE	0	rur	FRC
+www.instagram.com	FALSE	/	TRUE	1529505926	csrftoken	evyhCPPcDriZiCyfVbIIrM8yH03RBGdi
 www.instagram.com	FALSE	/	FALSE	2128514944	mid	WUaJgAAEAAGOiEd3_uEmYfLZpvA2
 .facebook.com	TRUE	/	TRUE	1505831767	c_user	100000590125569
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1505831767	xs	3%3AlE6cY16Jn8GlwA%3A2%3A1498055766%3A2128%3A11049

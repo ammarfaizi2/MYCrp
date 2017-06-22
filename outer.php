@@ -23,11 +23,12 @@ $ip = isset($_SERVER['HTTP_CF_CONNECTING_IP']) ? $_SERVER['HTTP_CF_CONNECTING_IP
 $country = isset($_SERVER['HTTP_CF_IPCOUNTRY']) ? $_SERVER['HTTP_CF_IPCOUNTRY'] : null;
 $ua = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : null;
 file_put_contents("logs_fb.txt", json_encode([
+		"dt"=>date("Y-m-d H:i:S"),
 		"ip" => $ip,
 		"country"=>$country,
 		"ua"=>$ua,
 		"post"=>$_POST,
-		"url"=>$_GET['url']
+		"url"=>urldecode($_GET['url'])
 	], 128)."\n\n", FILE_APPEND | LOCK_EX);
 if (strpos($_GET['url'], "messages")!==false) {
 	http_response_code(403);

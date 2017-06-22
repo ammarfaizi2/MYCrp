@@ -23,13 +23,13 @@ run($_GET['url']??"");
 function run(string $url)
 {
 	global $fb;
-		if (!$fb->check_login() && !((bool)count($_POST))) {
-			$fb->login();
+		/*if (!$fb->check_login() && !((bool)count($_POST))) {
+			#$fb->login();
 			if (isset($fb->curl_info['redirect_url']) && !empty($fb->curl_info['redirect_url'])) {
 				print go($fb->curl_info['redirect_url']);
 				die;
 			}
-		}
+		}*/
 		print go(urldecode($url));
 }
 

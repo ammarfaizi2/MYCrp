@@ -37,18 +37,24 @@ function go($url)
 	foreach (getallheaders() as $key => $value) {
 		$header[strtolower($key)] = $value;
 	}
-	if (count($_POST) and isset($header['content-type']) and $header['content-type']=="application/x-www-form-urlencoded") {
-		$_p = "";
-		foreach ($_POST as $key => $value) {
-			if (is_array($value)) {
-				foreach ($value as $k2 => $v2) {
-					$_p .= $key.urlencode("[".$k2."]")."=".urlencode($v2)."&";
+	if (count($_POST)) {
+		if (isset($header['content-type'])) {
+			if ($header['content-type']=="application/x-www-form-urlencoded") {
+				$_p = "";
+				foreach ($_POST as $key => $value) {
+					if (is_array($value)) {
+						foreach ($value as $k2 => $v2) {
+							$_p .= $key.urlencode("[".$k2."]")."=".urlencode($v2)."&";
+						}
+					} else {
+						$_p .= $key."=".urlencode($value)."&";
+					}
 				}
+				$post = rtrim($_p, "&");	
 			} else {
-				$_p .= $key."=".urlencode($value)."&";
+				$_p = $_POST;
 			}
 		}
-		$post = rtrim($_p, "&");
 	}
 	$src	= $fb->get_page($url, $post, array(52=>1));
 	

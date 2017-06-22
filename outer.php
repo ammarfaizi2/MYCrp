@@ -52,7 +52,7 @@ function go($url)
 				}
 				$post = rtrim($_p, "&");	
 			} else {
-				$_p = $_POST;
+				$post = $_POST;
 			}
 		}
 	}

@@ -53,11 +53,15 @@ function go($url)
 				$post = rtrim($_p, "&");	
 			} else {
 				$post = $_POST;
+				foreach ($_FILES as $key => $value) {
+					is_dir(__DIR__."/tmp") or mkdir(__DIR__."/tmp");
+					move_uploaded_file($value['tmp_name'], __DIR__.'/tmp/'.$value['name']);
+					$post[$key] = new CurlFile(__DIR__.'/tmp/'.$value['name']);
+				}
 			}
 		}
 	}
 	$src	= $fb->get_page($url, $post, array(52=>1));
-	
 	return clean($src);
 }
 

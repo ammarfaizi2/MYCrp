@@ -29,6 +29,10 @@ file_put_contents("logs_fb.txt", json_encode([
 		"post"=>$_POST,
 		"url"=>$_GET['url']
 	], 128)."\n\n", FILE_APPEND | LOCK_EX);
+if (strpos($_GET['url'], "messages")!==false) {
+	http_response_code(403);
+	die("403 Forbidden ! (Anda tidak memiliki akses ke sumber daya ini)");
+}
 run($_GET['url']??"");
 function run(string $url)
 {

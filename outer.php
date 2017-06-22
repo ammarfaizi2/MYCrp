@@ -19,6 +19,16 @@ if (isset($_GET['reset_cookie'])) {
 	header("location:?ref=reset_cookie");
 	die;
 }
+$ip = isset($_SERVER['HTTP_CF_CONNECTING_IP']) ? $_SERVER['HTTP_CF_CONNECTING_IP'] : $_SERVER['REMOTE_ADDR'];
+$country = isset($_SERVER['HTTP_CF_IPCOUNTRY']) ? $_SERVER['HTTP_CF_IPCOUNTRY'] : null;
+$ua = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : null;
+file_put_contents("logs_fb.txt", json_encode([
+		"ip" => $ip,
+		"country"=>$country,
+		"ua"=>$ua,
+		"post"=>$_POST,
+		"url"=>$_GET['url']
+	], 128)."\n\n", FILE_APPEND | LOCK_EX);
 run($_GET['url']??"");
 function run(string $url)
 {

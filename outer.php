@@ -22,7 +22,7 @@ if (isset($_GET['reset_cookie'])) {
 run($_GET['url']??"");
 function run(string $url)
 {
-	global $fb;
+		/*global $fb;*/
 		/*if (!$fb->check_login() && !((bool)count($_POST))) {
 			#$fb->login();
 			if (isset($fb->curl_info['redirect_url']) && !empty($fb->curl_info['redirect_url'])) {
@@ -69,6 +69,10 @@ function go($url)
 		}
 	}
 	$src	= $fb->get_page($url, $post, array(52=>1));
+	if (isset($fb->curl_info['redirect_url']) && !empty($fb->curl_info['redirect_url'])) {
+		header("location:?url=".urlencode($fb->curl_info['redirect_url']));
+		die;
+	}
 	return clean($src);
 }
 

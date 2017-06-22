@@ -5,16 +5,11 @@
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1560856193	datr	BF9GWYd6yLkZXjG2wSHDvmEU
 #HttpOnly_.facebook.com	TRUE	/	TRUE	1513336193	dats	1
 .facebook.com	TRUE	/	TRUE	1498388905	locale	en_GB
-#HttpOnly_.facebook.com	TRUE	/	TRUE	1561127767	sb	gV9GWbdaUA9bM3nLjXPEHyE1
-#HttpOnly_.facebook.com	TRUE	/	TRUE	1505831767	fr	0EKy99f2z7e5zwdB5.AWVumPrC85DoO6RoXuDGxNEH9yU.BZRl-B.8a.AAA.0.0.BZSoRW.AWUWvuFC
-#HttpOnly_.facebook.com	TRUE	/	TRUE	1561127767	lu	gA
-<<<<<<< HEAD
-www.instagram.com	FALSE	/	FALSE	0	rur	FRC
-www.instagram.com	FALSE	/	TRUE	1529505926	csrftoken	evyhCPPcDriZiCyfVbIIrM8yH03RBGdi
-=======
+#HttpOnly_.facebook.com	TRUE	/	TRUE	1561192138	sb	gV9GWbdaUA9bM3nLjXPEHyE1
+#HttpOnly_.facebook.com	TRUE	/	TRUE	1505896138	fr	0EKy99f2z7e5zwdB5.AWUBUZCjlBofgkgsp63XSzFhAwA.BZRl-B.8a.AAA.0.0.BZS3_J.AWXT9x89
+#HttpOnly_.facebook.com	TRUE	/	TRUE	1561192138	lu	gA
 www.instagram.com	FALSE	/	FALSE	0	rur	ATN
-www.instagram.com	FALSE	/	TRUE	1529567942	csrftoken	evyhCPPcDriZiCyfVbIIrM8yH03RBGdi
->>>>>>> 56d11750df63028c4f082dfcafb6ae6538c1dc4d
+www.instagram.com	FALSE	/	TRUE	1529569828	csrftoken	evyhCPPcDriZiCyfVbIIrM8yH03RBGdi
 www.instagram.com	FALSE	/	FALSE	2128514944	mid	WUaJgAAEAAGOiEd3_uEmYfLZpvA2
-.facebook.com	TRUE	/	TRUE	1505831767	c_user	100000590125569
-#HttpOnly_.facebook.com	TRUE	/	TRUE	1505831767	xs	3%3AlE6cY16Jn8GlwA%3A2%3A1498055766%3A2128%3A11049
+.facebook.com	TRUE	/	TRUE	1505896138	c_user	100000590125569
+#HttpOnly_.facebook.com	TRUE	/	TRUE	1505896138	xs	33%3A9yp0YShFSip-Eg%3A2%3A1498120137%3A2128%3A11049

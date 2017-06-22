@@ -34,9 +34,10 @@ function go($url)
 {
 	global $fb;
 	$post 	= count($_POST) ? $_POST : null;
-	$header = getallheaders();
-	var_dump($header);
-	if (count($_POST) && $header['Content-Type']=="application/x-www-form-urlencoded") {
+	foreach (getallheaders() as $key => $value) {
+		$header[strtolower($key)] = $value;
+	}
+	if (count($_POST) and isset($header['content-type']) and $header['content-type']=="application/x-www-form-urlencoded") {
 		$_p = "";
 		foreach ($_POST as $key => $value) {
 			if (is_array($value)) {

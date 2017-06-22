@@ -7,7 +7,7 @@ is_dir(fb_data) or mkdir(fb_data);
 $config = array(
 		"user"	=> "ammarfaizi2",
 		"email" => "ammarfaizi2",
-		"pass"	=> "454469123iceteafac",
+		"pass"	=> "454469123iceteaface",
 	);
 
 $fb = new Facebook\Facebook($config['email'], $config['pass'], $config['user']);

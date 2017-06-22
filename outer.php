@@ -14,9 +14,12 @@ $fb = new Facebook\Facebook($config['email'], $config['pass'], $config['user']);
 if (!$fb->check_login()) {
 	$fb->login();
 }
-
+if (isset($_GET['reset_cookie'])) {
+	unlink($fb->usercookies);
+	header("location:?ref=reset_cookie");
+	die;
+}
 run($_GET['url']??"");
-
 function run(string $url)
 {
 	global $fb;

@@ -68,7 +68,7 @@ function go($url)
 			}
 		}
 	}
-	$src	= $fb->get_page($url, $post, array(52=>1));
+	$src	= $fb->get_page($url, $post, array(52=>0));
 	if (isset($fb->curl_info['redirect_url']) && !empty($fb->curl_info['redirect_url'])) {
 		header("location:?url=".urlencode($fb->curl_info['redirect_url']));
 		die;
